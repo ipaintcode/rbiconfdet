@@ -412,6 +412,11 @@ header form input[type=submit]:hover {
 	
 }
 
+.col-three li {
+	float: left;
+	width: 33.33%;
+}
+
 footer {
 	color: white;
 	background: black;
