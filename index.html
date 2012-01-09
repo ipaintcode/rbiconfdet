@@ -19,7 +19,7 @@
 	<link rel="shortcut icon" href="_/img/favicon.ico">
 	
 	<!-- CSS: screen, mobile & print are all in the same file -->
-	<link rel="stylesheet" href="_/css/styl.css">
+	<link rel="stylesheet" href="_/css/style.css">
 	
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
 	<script src="_/js/modernizr-2.0.6.min.js"></script>
@@ -30,47 +30,51 @@
 
 <div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
 	<div class="header-wrapper">
-		<header class="min-max center">
+		<header>
+			<div class="header-inner center min-max">
+
+				<h1><a href="/">Revitalization &amp; Business Initiative</a></h1>
 		
-			<h1><a href="/">Revitalization &amp; Business Initiative</a></h1>
-		
-			<nav>
+				<nav class="main-nav">
 			
-				<ol>
-					<li><a href="">Initiative</a></li>
-					<li><a href="">Conference</a></li>
-					<li><a href="">Detroit Impact</a></li>
-					<li><a href="">Register</a></li>
-				</ol>
+					<ol>
+						<li class="active"><a href="">Initiative</a></li>
+						<li class=""><a href="">Conference</a></li>
+						<li class=""><a href="">Detroit Impact</a></li>
+						<li class=""><a href="">Register</a></li>
+					</ol>
 		
-			</nav>
+				</nav>
 		
-			<form action="" method="get">
+				<form action="" method="get">
 			
-				<fieldset>
+					<fieldset>
 				
-					<legend>
-						<span>sub&middot;scrip&middot;tion</span>
-						<span>[suhb-skrip-shuhn]</span>
-					</legend>
+						<legend>
+							<span class="legendWord">sub&middot;scrip&middot;tion</span>
+							<span class="legendSubword">[suhb-skrip-shuhn]</span>
+						</legend>
 				
-					<label for="email">1. Get R&amp;B Conference details 2. see insider videos and photo gallaries 3. follow what&rsquo;s happening in Detroit.</label>
-					<input type="text" name="email" placeholder="Email Please">
+						<label for="email">1. Get R&amp;B Conference details 2. see insider videos and photo gallaries 3. follow what&rsquo;s happening in Detroit.</label>
+						<input type="text" name="email" placeholder="Email Please">
+						<input type="submit" name="sendemail" value="IM IN!">
 				
-				</fieldset>	
+					</fieldset>	
 				
-			</form>
+				</form>
+				
+			</div>
 		
-			<section class="billboard">
+			<section class="billboard clearfix">
 			
 			</section>
 		
 		</header>
 	</div>
 	
-	<div class="content-wrapper">
+	<div class="content-wrapper clearfix">
 		
-		<section>
+		<section class="center min-max">
 			
 			<ul class="col-three">
 				<li>
@@ -95,7 +99,7 @@
 	</div>
 	
 	<footer>
-		<div class="footer-wrapper-info">
+		<div class="footer-wrapper-info center min-max">
 			<ul>
 				<li>1 <span>Conference</span></li>
 				<li>700 <span>Particpants</span></li>
@@ -108,7 +112,7 @@
 				</li>
 			</ul>
 		</div>
-		<div class="footer-wrapper-thankyou">
+		<div class="footer-wrapper-thankyou center min-max">
 			<h5>Thank you for your support</h5>
 			<ul>
 				<li>GM</li>
@@ -119,7 +123,7 @@
 			</ul>
 		</div>
 		
-		<p>University of Michigan Revitalization &amp; Business Club<span>Reach out to us &rarr;</span></p>
+		<p class="center min-max">University of Michigan Revitalization &amp; Business Club<span>Reach out to us &rarr;</span></p>
 		
 	</footer>
 
@@ -128,7 +132,7 @@
 <!-- here comes the javascript -->
 
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
-<script src="http//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->

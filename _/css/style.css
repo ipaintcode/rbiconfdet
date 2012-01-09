@@ -36,7 +36,7 @@ html {overflow-y: scroll;}
 
 /* we use a lot of ULs that aren't bulleted. 
 	don't forget to restore the bullets within content. */
-ul {list-style: none;}
+ul, ol {list-style: none;}
 
 blockquote, q {quotes: none;}
 
@@ -120,6 +120,59 @@ button {width: auto; overflow: visible;}
 
 
 
+/* @font-face styles!
+-------------------------------------------------------------------------------*/
+
+@font-face {
+	font-family: 'ProximaNovaBold';
+	src: url('../fonts/bold/ProximaNova-Bold-webfont.eot');
+	src: local('☺'), url('../fonts/bold/ProximaNova-Bold-webfont.woff') format('woff'), url('../fonts/bold/ProximaNova-Bold-webfont.ttf') format('truetype'), url('../fonts/bold/ProximaNova-Bold-webfont.svg#webfontPkpOAKCy') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ProximaNovaRegular';
+	src: url('../fonts/regular/ProximaNova-Reg-webfont.eot');
+	src: local('☺'), url('../fonts/regular/ProximaNova-Reg-webfont.woff') format('woff'), url('../fonts/regular/ProximaNova-Reg-webfont.ttf') format('truetype'), url('../fonts/regular/ProximaNova-Reg-webfont.svg#webfontKqnc2168') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ProximaNovaSemibold';
+	src: url('../fonts/semibold/ProximaNova-Sbold-webfont.eot');
+	src: local('☺'), url('../fonts/semibold/ProximaNova-Sbold-webfont.woff') format('woff'), url('../fonts/semibold/ProximaNova-Sbold-webfont.ttf') format('truetype'), url('../fonts/semibold/ProximaNova-Sbold-webfont.svg#webfontILGjOKPE') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ProximaNovaLight';
+	src: url('../fonts/light/ProximaNova-Light-webfont.eot');
+	src: local('☺'), url('../fonts/light/ProximaNova-Light-webfont.woff') format('woff'), url('../fonts/light/ProximaNova-Light-webfont.ttf') format('truetype'), url('../fonts/light/ProximaNova-Light-webfont.svg#webfontILGjOKPE') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ProximaNovaExtraboldItalic';
+	src: url('../fonts/extrabolditalic/ProximaNova-XboldIt-webfont.eot');
+	src: local('☺'), url('../fonts/extrabolditalic/ProximaNova-XboldIt-webfont.woff') format('woff'), url('../fonts/extrabolditalic/ProximaNova-XboldIt-webfont.ttf') format('truetype'), url('../fonts/extrabolditalic/ProximaNova-XboldIt-webfont.svg#webfontjGHdVH2T') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ProximaNovaExtrabold';
+	src: url('../fonts/extrabold/ProximaNova-Xbold-webfont.eot');
+	src: local('☺'), url('../fonts/extrabold/ProximaNova-Xbold-webfont.woff') format('woff'), url('../fonts/extrabold/ProximaNova-Xbold-webfont.ttf') format('truetype'), url('../fonts/extrabold/ProximaNova-Xbold-webfont.svg#webfont5Bsjw8ug') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
 /* Ok, this is where the fun starts.
 -------------------------------------------------------------------------------*/
 
@@ -136,8 +189,8 @@ a {color: #03f;}
 a:hover {color: #69f;}
 
 /* Custom text-selection colors (remove any text shadows: twitter.com/miketaylr/status/12228805301) */
-::-moz-selection{background: #fcd700; color: #fff; text-shadow: none;}
-::selection {background: #fcd700; color: #fff; text-shadow: none;} 
+::-moz-selection{background: #C33E43; color: #fff; text-shadow: none;}
+::selection {background: #C33E43; color: #fff; text-shadow: none;} 
 
 /*	j.mp/webkit-tap-highlight-color */
 a:link {-webkit-tap-highlight-color: #fcd700;} 
@@ -147,7 +200,123 @@ mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: b
 
 
 
+/* Base Styles
+-------------------------------------------------------------------------------*/
 
+.min-max {
+	min-width: 960px;
+	max-width: 1440px;
+	width: 960px; /*comment out if no need for fixed*/
+}
+
+.center {
+	margin: 0 auto;
+}
+
+header {
+	background: #425566;
+}
+
+header .header-inner {
+	padding-top: 35px;
+}
+
+header h1 a {
+	float: left;
+	margin-right: 20px;
+	display: block;
+	width: 141px;
+	height: 117px;
+	text-indent: -9999px;
+	background: url('../img/randb_logo.png') no-repeat top left;
+}
+
+header .main-nav {
+	float: left;
+}
+
+header .main-nav a {
+	color: white;
+	line-height: 26px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 30px;
+	font-family: "ProximaNovaExtrabold";
+}
+
+header .main-nav .active a {
+	color: #707F95;
+}
+
+header form {
+	color: white;
+	font-size: 15px;
+	float: right;
+	width: 340px;
+}
+
+header form legend {
+	padding-bottom: 5px;
+}
+
+header form .legendWord {
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	font-family: "ProximaNovaExtrabold";	
+}
+
+header form .legendSubword {
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+header form label {
+	display: block;
+	font-family: Helvetica, Arial, "MS Trebuchet", sans-serif;
+}
+
+header form input[type=text] {
+	width: 244px;
+	float: left;
+	height: 40px;
+	border: none;
+	padding: 0 0 0 10px;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	-webkit-background-clip: padding-box; /* fix WebKit background bleed on border-radius */
+	    -webkit-border-radius-top-left: 4px; /* pre-Safari 5, delete unused */
+	   -webkit-border-radius-top-right: 0;
+	-webkit-border-radius-bottom-right: 0;
+	 -webkit-border-radius-bottom-left: 4px;
+	                -moz-border-radius: 4px 0 0 4px;
+	                     border-radius: 4px 0 0 4px;
+}
+
+header form label[for=email] {
+	margin-bottom: 10px;
+	line-height: 16px;
+	font-size: 12px;
+}
+
+header form input[type=submit] {
+	background: #C33E43;
+	border: none;
+	color: white;
+	font-size: 15px;
+	height: 40px;
+	padding: 0;
+	line-height: 38px;
+	font-family: "ProximaNovaExtrabold";
+	-webkit-background-clip: padding-box; /* fix WebKit background bleed on border-radius */
+	    -webkit-border-radius-top-left: 0; /* pre-Safari 5, delete unused */
+	   -webkit-border-radius-top-right: 4px;
+	-webkit-border-radius-bottom-right: 4px;
+	 -webkit-border-radius-bottom-left: 0;
+	                -moz-border-radius: 0 4px 4px 0;
+	                     border-radius: 0 4px 4px 0;
+	
+	width: 85px;
+}
 
 /* Print styles!
 -------------------------------------------------------------------------------*/
