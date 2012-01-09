@@ -414,22 +414,41 @@ header form input[type=submit]:hover {
 
 .col-three li {
 	float: left;
-	width: 31%;
-	margin-top: 25px;
+	width: 33%;
 	margin-bottom: 90px;
-	margin-right: 33px;
-	background: url('../img/col3.png') no-repeat scroll top right;
+	position: relative;
 }
 
-.col-three li:last-child {
-	background: none;
-	margin-right: 0;
+.col-three li.pillar:after {
+	position: absolute;
+	top: 55px; right: 0;
+	content: url('../img/col3.png') no-repeat;
 }
 
+.col-three li h3 {
+	height: 144px;
+	background: red;
+	text-indent: -9999px;
+	width: 100%;
+}
+
+.col-three li .ross {
+	background: url('../img/ross.png') no-repeat top left;
+}
+
+.col-three li .oldenglish {
+	background: url('../img/oldenglish.png') no-repeat top center;
+	background-position: 100px 0;
+}
+
+.col-three li .cityscape {
+	background: url('../img/city.png') no-repeat top center;
+}
 
 .col-three li h4 {
 	margin-top: 40px;
 	margin-bottom: 10px;
+	padding-left: 10px;
 	text-transform: uppercase;
 	font-size: 16px;
 	font-family: "ProximaNovaExtrabold";
@@ -438,7 +457,9 @@ header form input[type=submit]:hover {
 .col-three li p {
 	color: #5b6d7d;
 	line-height: 25px;
-	padding-right: 70px;
+	z-index: 200;
+	padding-left: 10px;
+	padding-right: 50px;
 }
 
 
