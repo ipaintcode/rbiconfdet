@@ -409,13 +409,26 @@ header form input[type=submit]:hover {
 }*/
 
 .content-wrapper {
-	
+	color: #465467;
 }
 
 .col-three li {
 	float: left;
 	width: 33.33%;
 }
+
+.col-three li h4 {
+	text-transform: uppercase;
+	font-size: 16px;
+	font-family: "ProximaNovaExtrabold";
+}
+
+.col-three li p {
+	color: #5b6d7d;
+	line-height: 25px;
+	padding-right: 90px;
+}
+
 
 footer {
 	color: white;
