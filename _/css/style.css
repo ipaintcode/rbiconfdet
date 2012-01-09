@@ -414,10 +414,18 @@ header form input[type=submit]:hover {
 
 .col-three li {
 	float: left;
-	width: 33.33%;
+	width: 31%;
 	margin-top: 25px;
 	margin-bottom: 90px;
+	margin-right: 33px;
+	background: url('../img/col3.png') no-repeat scroll top right;
 }
+
+.col-three li:last-child {
+	background: none;
+	margin-right: 0;
+}
+
 
 .col-three li h4 {
 	margin-top: 40px;
@@ -430,7 +438,7 @@ header form input[type=submit]:hover {
 .col-three li p {
 	color: #5b6d7d;
 	line-height: 25px;
-	padding-right: 90px;
+	padding-right: 70px;
 }
 
 
