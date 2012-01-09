@@ -492,7 +492,7 @@ footer .footer-wrapper-info ul > li:first-child {
 	padding-right: 25px;
 }
 
-footer .footer-wrapper-info ul ul li:last-child {
+footer .footer-wrapper-info ul li .noarrow {
 	background: none;
 	padding-right: 0;
 	margin-right: 0;
