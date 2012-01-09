@@ -412,6 +412,130 @@ header form input[type=submit]:hover {
 	
 }
 
+footer {
+	color: white;
+	background: black;
+}
+
+footer .footer-wrapper-info {
+	background: #B63C44;
+}
+
+footer .footer-wrapper-info > ul {
+	padding-top: 20px;
+	padding-bottom: 35px;
+}
+
+footer .footer-wrapper-info ul > li {
+	float: left;
+	text-transform: uppercase;
+	font-size: 70px;
+	font-family: "ProximaNovaExtrabold";
+	background: url('../img/white_arrow.png') no-repeat center right;
+	background-position: right 35px;
+	margin-right: 50px;
+	padding-right: 60px;
+}
+
+footer .footer-wrapper-info ul > li:first-child {
+	padding-right: 25px;
+}
+
+footer .footer-wrapper-info ul > li:last-child {
+	background: none;
+	padding-right: 0;
+	margin-right: 0;
+}
+
+footer .footer-wrapper-info ul ul > li {
+	float: left;
+	display: block;
+	margin-top: -10px;
+	margin-right: 0;
+	padding-right: 10px;
+	text-transform: none;
+	font-size: 15px;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+footer .footer-wrapper-info ul ul > li:first-child {
+	padding-right: 10px;
+}
+
+footer .footer-wrapper-thankyou {
+	background: #22242B;
+	padding-bottom: 50px;
+}
+
+footer .footer-wrapper-thankyou h5 {
+	padding: 50px 0;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 50px;
+	font-family: "ProximaNovaExtrabold";
+}
+
+footer .footer-wrapper-thankyou ul {
+
+}
+
+footer .footer-wrapper-thankyou ul li {
+	float: left;
+	text-indent: -9999px;
+	margin-right: 80px;
+}
+
+footer .footer-wrapper-thankyou ul .gm {
+	background: url('../img/logos.png') no-repeat 0 0;
+	width: 67px;
+	height: 74px;
+}
+
+footer .footer-wrapper-thankyou ul .det {
+	background: url('../img/logos.png') no-repeat -147px 0;
+	width: 138px;
+	height: 74px;
+}
+
+footer .footer-wrapper-thankyou ul .pwc {
+	background: url('../img/logos.png') no-repeat -363px -0;
+	width: 188px;
+	height: 74px;
+}
+
+footer .footer-wrapper-thankyou ul .del {
+	background: url('../img/logos.png') no-repeat -621px -0;
+	width: 112px;
+	height: 74px;
+}
+
+footer .footer-wrapper-thankyou ul .lc {
+	background: url('../img/logos.png') no-repeat -814px -0;
+	width: 123px;
+	height: 74px;
+	margin-right: 0;
+}
+
+footer p {
+	font-size: 16px;
+	font-family: "ProximaNovaExtrabold";
+	padding: 10px 0;
+}
+
+footer p a {
+	float: right;
+	text-decoration: none;
+	color: white;
+	text-transform: uppercase;
+	font-size: 16px;
+	font-family: "ProximaNovaExtrabold";
+}
+
+footer p a:hover {
+	color: #B63C44;
+}
+
 /* Print styles!
 -------------------------------------------------------------------------------*/
 @media print {
