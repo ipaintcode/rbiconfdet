@@ -270,12 +270,12 @@ header ul.main-nav-secondary a {
 
 header ul.main-nav-secondary a:hover {
 	color: white;
-	
+	background-position: 0 -16px;
 }
 
 header .main-nav-secondary .active a {
 	color: white;
-	background-position: 0 -16px;
+
 }
 	
 
