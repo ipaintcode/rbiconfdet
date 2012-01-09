@@ -472,47 +472,18 @@ footer .footer-wrapper-info {
 	background: #B63C44;
 }
 
-footer .footer-wrapper-info > ul {
-	padding-top: 20px;
-	padding-bottom: 35px;
-}
-
-footer .footer-wrapper-info ul > li {
+footer .footer-wrapper-info ul li {
 	float: left;
-	text-transform: uppercase;
-	font-size: 70px;
+	font-size: 99px;
 	font-family: "ProximaNovaExtrabold";
-	background: url('../img/white_arrow.png') no-repeat center right;
-	background-position: right 35px;
-	margin-right: 50px;
-	padding-right: 60px;
 }
 
-footer .footer-wrapper-info ul > li:first-child {
-	padding-right: 25px;
-}
-
-footer .footer-wrapper-info .noarrow {
-	padding-right: 0;
-	margin-right: 0;
-	background: none;
-}
-
-footer .footer-wrapper-info ul ul > li {
-	float: left;
+footer .footer-wrapper-info ul li span {
 	display: block;
-	margin-top: -10px;
-	margin-right: 0;
-	padding-right: 10px;
-	text-transform: none;
-	font-size: 15px;
+	font-size: 16px;
 	font-style: italic;
+	width: 230px;
 	font-family: Georgia, "Times New Roman", Times, serif;
-	background: none;
-}
-
-footer .footer-wrapper-info ul ul > li:first-child {
-	padding-right: 10px;
 }
 
 footer .footer-wrapper-thankyou {
