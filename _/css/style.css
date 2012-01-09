@@ -248,6 +248,28 @@ header .main-nav .active a {
 	color: #707F95;
 }
 
+header ul.main-nav-secondary {
+	margin: 2px 0 4px 30px;
+}
+
+header ul.main-nav-secondary a {
+	padding-left: 30px;
+	color: #707F95;
+	line-height: 20px;
+	text-transform: none;
+	font-size: 16px;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background: url('../img/sub_arrows.png') no-repeat center left;
+	background-position: 0 5px;
+}
+
+header ul.main-nav-secondary a:hover {
+	color: white;
+	background-position: 0 -16px;
+}
+	
+
 header form {
 	color: white;
 	font-size: 15px;
@@ -303,6 +325,7 @@ header form input[type=submit] {
 	border: none;
 	color: white;
 	font-size: 15px;
+	width: 85px;
 	height: 40px;
 	padding: 0;
 	line-height: 38px;
@@ -314,8 +337,13 @@ header form input[type=submit] {
 	 -webkit-border-radius-bottom-left: 0;
 	                -moz-border-radius: 0 4px 4px 0;
 	                     border-radius: 0 4px 4px 0;
-	
-	width: 85px;
+
+}
+
+.billboard {
+	background: url('../img/header_bottom.png') no-repeat bottom center;
+	width: 100%; height: 300px;
+	min-width: 960px;
 }
 
 /* Print styles!
