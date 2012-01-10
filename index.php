@@ -133,13 +133,19 @@
 		<div class="footer-wrapper-thankyou clearfix">
 			<div class="center min-max">
 				<h5>Thank you for your support</h5>
-				<ul class="center min-max">
+				<ul class="">
 					<li class="gm" tooltip="Gold Member">GM</li>
 					<li class="det" tooltip="Platinum Member">DTE Energy</li>
-					<li class="pwc" tooltip="Silver Member">Price Waterhouse Coppers</li>
-					<li class="netimpact" tooltip="Gold Member">Net Impact Michigan</li>
+					<li class="focus" tooltip="Platinum Member">Focus: HOPE</li>
 					<li class="del" tooltip="Gold Member">Deloitte.</li>
-					<li class="nelsm" tooltip="Silver Member">New Economy Initiative for Southest Michigan</li>
+					<li class="neism" tooltip="Gold Member">Net Impact Michigan</li>
+				</ul>
+				<ul class="second-logos">
+					<li class="pwc" tooltip="Silver Member">Price Waterhouse Coppers</li>
+					<li class="netimpact" tooltip="Silver Member">New Economy Initiative for Southest Michigan</li>
+					<li class="meritor" tooltip="Silver Member">Meritor</li>
+					<li class="ql" tooltip="Silver Member">Quicken Loans</li>
+					<li class="sga" tooltip="Silver Member">SGA</li>
 				</ul>
 			</div>
 		</div>
