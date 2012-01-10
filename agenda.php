@@ -123,7 +123,7 @@
 				<p class="agenda-schedule-hours">6:00-7:00<span>pm</span></p>
 				<div class="time-copy">
 					<div class="time-copy">
-						<h4 class="agenda-eat">Cocktail Reception</h4>
+						<h4 class="agenda-eat breaks">Cocktail Reception</h4>
 					</div>
 				</div>
 				
@@ -137,7 +137,7 @@
 				
 				<p class="agenda-schedule-hours">6:00-7:00<span>pm</span></p>
 				<div class="time-copy">
-					<h4 class="agenda-eat">Welcome from Revitalization & Business</h4>
+					<h4 class="agenda-eat">Welcome from Revitalization &amp; Business</h4>
 				</div>
 				
 			</div>
@@ -151,7 +151,7 @@
 				<p class="agenda-schedule-hours">6:00-7:00<span>pm</span></p>
 				
 				<div class="time-copy">
-					<h4 class="agenda-eat">Dinner</h4>
+					<h4 class="agenda-eat breaks">Dinner</h4>
 				</div>
 			</div>
 			
@@ -199,7 +199,7 @@
 				<p class="agenda-schedule-hours">8:00-8:30<span>am</span></p>
 				<div class="time-copy">
 					<div class="time-copy">
-						<h4 class="agenda-eat">Continental Breakfast</h4>
+						<h4 class="agenda-eat breaks">Continental Breakfast</h4>
 					</div>
 				</div>
 				
@@ -227,7 +227,7 @@
 				<p class="agenda-schedule-hours">10:15-10:30<span>am</span></p>
 				
 				<div class="time-copy">
-					<h4 class="agenda-eat">Coffee break and transition time</h4>
+					<h4 class="agenda-eat breaks">Coffee break and transition time</h4>
 				</div>
 			</div>
 			
@@ -252,7 +252,7 @@
 				<p class="agenda-schedule-hours">12:00-12:45<span>pm</span></p>
 				
 				<div class="time-copy">
-					<h4 class="agenda-eat">Lunch and Lunchtime Remarks</h4>
+					<h4 class="agenda-eat breaks">Lunch and Lunchtime Remarks</h4>
 				</div>
 			</div>
 			
@@ -277,7 +277,7 @@
 				<p class="agenda-schedule-hours">4:00-5:30<span>pm</span></p>
 				
 				<div class="time-copy">
-					<h4 class="agenda-eat">Happy Hour at Ashley's</h4>
+					<h4 class="agenda-eat breaks">Happy Hour at Ashley's</h4>
 				</div>
 			</div>
 			

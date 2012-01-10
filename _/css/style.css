@@ -789,6 +789,10 @@ footer p a:hover {
 	font-family: Georgia, "Times New Roman", Times, serif;
 }
 
+.breaks {
+	padding-top: 39px;
+}
+
 .agenda-schedule {
 	padding-top: 35px;
 	padding-bottom: 35px;
