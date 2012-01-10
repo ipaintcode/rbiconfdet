@@ -577,13 +577,6 @@ footer .footer-wrapper-thankyou ul li {
 	position: relative;
 }
 
-footer .footer-wrapper-thankyou ul .gm {
-	background: url('../img/logos.png') no-repeat 0 0;
-	width: 47px;
-	height: 73px;
-	position: relative;
-}
-
 footer .footer-wrapper-thankyou ul li:hover:after {
 	display: block;
 	text-align: center;
@@ -623,38 +616,82 @@ footer .footer-wrapper-thankyou ul li[tooltip="Silver Member"]:hover:after {
 	opacity: 1;
 }
 
-
+footer .footer-wrapper-thankyou ul .gm {
+	background: url('../img/logos.png') no-repeat -13px 0;
+	width: 47px;
+	height: 74px;
+}
 
 footer .footer-wrapper-thankyou ul .det {
-	background: url('../img/logos.png') no-repeat -101px 0;
-	width: 110px;
-	height: 90px;
+	background: url('../img/logos.png') no-repeat -179px 0;
+	width: 52px;
+	height: 74px;
 }
 
-footer .footer-wrapper-thankyou ul .pwc {
-	background: url('../img/logos.png') no-repeat -276px 0;
-	width: 97px;
-	height: 73px;
-}
-
-footer .footer-wrapper-thankyou ul .netimpact {
-	background: url('../img/logos.png') no-repeat -454px 0;
-	width: 63px;
-	height: 73px;
+footer .footer-wrapper-thankyou ul .focus {
+	background: url('../img/logos.png') no-repeat -357px 0;
+	width: 180px;
+	height: 74px;
 }
 
 footer .footer-wrapper-thankyou ul .del {
-	background: url('../img/logos.png') no-repeat -621px 0;
+	background: url('../img/logos.png') no-repeat -623px 0;
 	width: 104px;
-	height: 73px;
+	height: 74px;
 }
 
-footer .footer-wrapper-thankyou ul .nelsm {
-	background: url('../img/logos.png') no-repeat -810px 0;
+footer .footer-wrapper-thankyou ul .neism {
+	background: url('../img/logos.png') no-repeat -823px 0;
 	width: 134px;
-	height: 73px;
+	height: 74px;
 	margin-right: 0;
 }
+
+/* 2nd Row */
+
+footer .footer-wrapper-thankyou ul {
+	margin-left: 60px;
+}
+
+footer .footer-wrapper-thankyou ul.second-logos {
+	margin-top: 100px;
+	display: block;
+}
+
+footer .footer-wrapper-thankyou ul .pwc {
+	background: url('../img/logos.png') no-repeat 0 -120px;
+	width: 97px;
+	height: 90px;
+}
+
+footer .footer-wrapper-thankyou ul .netimpact {
+	background: url('../img/logos.png') no-repeat -179px -120px;
+	width: 63px;
+	height: 90px;
+}
+
+footer .footer-wrapper-thankyou ul .meritor {
+	background: url('../img/logos.png') no-repeat -375px -120px;
+	width: 153px;
+	height: 90px;
+}
+
+footer .footer-wrapper-thankyou ul .ql {
+	background: url('../img/logos.png') no-repeat -617px -120px;
+	width: 135px;
+	height: 90px;
+}
+
+footer .footer-wrapper-thankyou ul .sga {
+	background: url('../img/logos.png') no-repeat -848px -120px;
+	width: 80px;
+	height: 90px;
+	margin-right: 0;
+}
+
+
+
+
 
 footer p {
 	font-size: 16px;
