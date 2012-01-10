@@ -39,7 +39,7 @@
 				<nav class="main-nav">
 
 					<ol>
-						<li class=""><a href="/">Initiative</a></li>
+						<li class=""><a href="index.php">Initiative</a></li>
 						<li class="active"><a href="agenda.php">Conference</a>
 						<ul class="main-nav-secondary">
 							<li class="active"><a href="agenda.php">Agenda</a></li>
