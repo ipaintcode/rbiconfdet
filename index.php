@@ -33,7 +33,7 @@
 		<header>
 			<div class="header-inner center min-max clearfix">
 
-				<h1><a href="/">Revitalization &amp; Business Initiative</a></h1>
+				<h1><a href="index.php">Revitalization &amp; Business Initiative</a></h1>
 		
 				<nav class="main-nav">
 			
