@@ -30,57 +30,54 @@
 
 <div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
 	<div class="header-wrapper">
+		
 		<header>
 			<div class="header-inner center min-max clearfix">
 
 				<h1><a href="/">Revitalization &amp; Business Initiative</a></h1>
-		
+
 				<nav class="main-nav">
-			
+
 					<ol>
-						<li class="active"><a href="">Initiative</a></li>
-						<li class=""><a href="agenda.php">Conference</a>
-						<!-- <ul class="main-nav-secondary">
-													<li class=""><a href="">Agenda</a></li>
-													<li class="active"><a href="">IdeaLab</a></li>
-													<li class=""><a href="">Panels</a></li>
-													<li class=""><a href="">Keynote Speakers</a></li>
-												</ul> -->
+						<li class=""><a href="">Initiative</a></li>
+						<li class="active"><a href="agenda.php">Conference</a>
+						<ul class="main-nav-secondary">
+							<li class="active"><a href="agenda.php">Agenda</a></li>
+							<li class=""><a href="">IdeaLab</a></li>
+							<li class=""><a href="">Panels</a></li>
+							<li class=""><a href="">Keynote Speakers</a></li>
+						</ul>
 						</li>
 						<li class=""><a href="" tooltip="Coming Soon">Detroit Impact</a></li>
 						<li class=""><a href="http://www.eventbrite.com/event/2630495884">Register</a></li>
 					</ol>
-		
+
 				</nav>
-				
+
 				<ul class="social">
 					<li class="facebook"><a href="http://www.facebook.com/rossrnb" target="_blank">Facebook</a></li>
 					<li class="twitter"><a href="http://www.twitter.com/rossrnb" target="_blank">Twitter</a></li>
 				</ul>
-			
+
 				<form action="" method="get">
-			
+
 					<fieldset>
-				
+
 						<legend>
 							<span class="legendWord">sub&middot;scrip&middot;tion</span>
 							<span class="legendSubword">[suhb-skrip-shuhn]</span>
 						</legend>
-				
+
 						<label for="email">1. Get R&amp;B Conference details 2. see insider videos and photo gallaries 3. follow what&rsquo;s happening in Detroit.</label>
 						<input type="text" name="email" placeholder="Email Please">
 						<input type="submit" name="sendemail" value="IM IN!">
-				
+
 					</fieldset>
-				
+
 				</form>
 
 			</div>
 			
-			<div class="message clearfix">
-				<h2>We’re changing<span>the conversation</span></h2>
-				<p>Educating and engaging students in business issues shaping Detroit</p>
-			</div>
 			<!-- <div class="billboard-gallery">
 				<ul class="billboard-gallery-inner">
 					<li><img src="_/img/1.jpg" alt="2"></li>
@@ -88,34 +85,103 @@
 					<li><img src="_/img/2.jpg" alt="2"></li>
 				</ul>
 			</div> -->
-			
-			
+
+
 			<div class="billboard"></div>
-		
+
 		</header>
+		
 	</div>
 	
 	<div class="content-wrapper clearfix">
 		
-		<section class="center min-max">
+		<section class="center min-max agenda">
 			
-			<ul class="col-three">
-				<li class="pillar">
-					<h3 class="ross">Michigan Ross School of Business</h3>
-					<h4>Who we are</h4>
-					<p>Launched by Ross School of Business MBAs in 2010, R&amp;B connects University of Michigan students with Detroit&rsquo;s evolving business landscape. R&amp;B promotes Detroit&rsquo;s assets and encourages students to explore opportunities in the Motor City.</p>
-				</li>
-				<li class="pillar">
-					<h3 class="oldenglish">Detroit</h3>
-					<h4>What we do</h4>
-					<p>R&amp;B hosts an annual capstone conference examining key business initiatives in Detroit. We also organize excursions and plan events to highlight the city&rsquo;s career opportunities, rich culture, and quality of life.</p>
-				</li>
-				<li>
-					<h3 class="cityscape">City</h3>
-					<h4>Where we are going</h4>
-					<p>We strive for impact by contributing to Detroit organizations through student-run consulting projects and motivating UM students to choose Detroit as a career and lifestyle destination. R&amp;B engages students with the important issues shaping the city&rsquo;s future.</p>
-				</li>
-			</ul>
+			<h5>Conference <span>Description</span></h5>
+			<div class="info-graphic">
+				<a href=""><img src="_/img/watch_videos.jpg" alt="Watch Videos"></a>
+				<p>R&amp;B hosts an annual two-day capstone conference featuring prominent industry and city leaders and entrepreneurial change agents. The conference examines how business issues contribute to Detroit&rsquo;s progress and transformation through vibrant speakers, in-depth panel discussions, and an interactive, fast-faced IdeaLab co-hosted by Model D Media. This year&rsquo;s event, Detroit SHIFT, will take place on January 19-20 in Detroit and Ann Arbor.</p>
+			</div>
+			
+			
+		</section>
+		
+		<section class="center min-max agenda agenda-alt">
+			
+			<h5>Conference <span>Agenda</span></h5>
+			<div class="info-graphic">
+				<p class="agenda-date">19<span>jan 2012</span></p>
+				<p class="agenda-custom">Taubman Center, College for Creative Studies Detroit, MI<span>(Contact <a href="mailto:randbregistration@umich.edu">randbregistration@umich.edu</a> for tickets)</span></p>
+				<a class="download-cal" href="">(Download)</a>
+			</div>
+			
+			
+		</section>
+		
+		<section class="agenda-schedule schedule-odd clearfix">
+			
+			<div class="agenda-schedule-wrapper center min-max">
+				
+				<p class="agenda-schedule-hours">6:00-7:00<span>pm</span></p>
+				<div class="time-copy">
+					<p>
+						<h4 class="agenda-eat">Cocktail Reception</h4>
+					</p>
+				</div>
+				
+			</div>
+			
+			
+		</section>
+		
+		<section class="agenda-schedule schedule-even clearfix">
+			
+			<div class="agenda-schedule-wrapper center min-max">
+				
+				<p class="agenda-schedule-hours">6:00-7:00<span>pm</span></p>
+				<div class="time-copy">
+				
+				</div>
+				
+			</div>
+			
+			
+		</section>
+		
+		<section class="agenda-schedule schedule-odd clearfix">
+			
+			<div class="agenda-schedule-wrapper center min-max">
+				
+				<p class="agenda-schedule-hours">6:00-7:00<span>pm</span></p>
+				
+			</div>
+			
+			
+		</section>
+		
+		<section class="agenda-schedule schedule-even clearfix">
+			
+			<div class="agenda-schedule-wrapper center min-max">
+				
+				<p class="agenda-schedule-hours">6:00-7:00<span>pm</span></p>
+				
+			</div>
+			
+			
+		</section>
+		
+		</section>
+		
+		<section class="agenda-schedule schedule-odd clearfix">
+			
+			<div class="agenda-schedule-wrapper center min-max">
+				
+				<p class="agenda-schedule-hours">7:00-8:00<span>pm</span></p>
+				<p>
+					<h4 class="agenda-eat">Dinner</h4>
+				</p>
+			</div>
+			
 			
 		</section>
 		
@@ -143,11 +209,11 @@
 				</ul>
 			</div>
 		</div>
-		
-		<p class="center min-max">University of Michigan Revitalization &amp; Business Club<a href="">Reach out to us &rarr;</a></p>
-		
-	</footer>
 
+		<p class="center min-max">University of Michigan Revitalization &amp; Business Club<a href="">Reach out to us &rarr;</a></p>
+
+	</footer>
+	
 </div>
 
 <!-- here comes the javascript -->

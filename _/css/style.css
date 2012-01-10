@@ -609,17 +609,18 @@ footer .footer-wrapper-thankyou ul li:hover:after {
 
 footer .footer-wrapper-thankyou ul li[tooltip="Gold Member"]:hover:after {
 	background: #9c8a40;
-	color: #3c3414;
+	color: #3c3414;opacity: 1;
 }
 
 footer .footer-wrapper-thankyou ul li[tooltip="Platinum Member"]:hover:after {
 	background: #ebefe3;
-	color: #555555;
+	color: #555555;opacity: 1;
 }
 
 footer .footer-wrapper-thankyou ul li[tooltip="Silver Member"]:hover:after {
 	background: #9fa299;
 	color: #4c4e49;
+	opacity: 1;
 }
 
 
@@ -672,6 +673,150 @@ footer p a {
 
 footer p a:hover {
 	color: #B63C44;
+}
+
+
+/* Agenda styles!
+-------------------------------------------------------------------------------*/
+
+.agenda h5 {
+	text-transform: uppercase;
+	font-size: 32px;
+	font-family: "ProximaNovaExtrabold";
+}
+
+.agenda h5 span {
+	display: block;
+	color: #91cdcb;
+	text-transform: capitalize;
+	font-size: 21px;
+	font-style: italic;
+	margin-top: -5px;
+	margin-bottom: 25px;
+	padding-left: 21px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background: url('../img/light_blue_arrow.png') no-repeat top left;
+}
+
+.agenda .info-graphic img {
+	float: left;
+	margin-right: 44px;
+
+}
+
+.agenda .info-graphic p {
+	line-height: 20px;
+	color: #878b8c;
+}
+
+.agenda-alt {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	position: relative;
+}
+
+.agenda-alt .info-graphic .agenda-date {
+	display: inline;
+	float: left;
+	margin-left: 50px;
+	margin-right: 144px;
+	margin-top: 40px;
+	color: #97CECA;
+	font-size: 105px;
+	font-family: "ProximaNovaExtrabold";
+
+}
+
+.agenda-alt .info-graphic .agenda-date span {
+	display: block;
+	font-size: 24px;
+	margin-top: 30px;
+	text-transform: uppercase;
+	font-family: "ProximaNovaExtrabold";
+}
+
+.agenda-alt .info-graphic .agenda-custom {
+	font-size: 24px;
+	padding-top: 40px;
+	color: #97CECA;
+	text-transform: uppercase;
+	font-family: "ProximaNovaExtrabold";
+	margin-right: 50px;
+	line-height: 25px;
+}
+
+.agenda-alt .info-graphic .agenda-custom:before {
+	content: url('../img/pointer.png');
+	position: absolute;
+	top: 80px;
+}
+
+.agenda-alt .info-graphic .agenda-custom span {
+	display: block;
+	color: #B63C44;
+	margin-top: -5px;
+	text-transform: none;
+	font-size: 16px;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.agenda-alt .info-graphic .agenda-custom a {
+	text-decoration: none;
+	color: #465467;
+}
+
+.agenda-alt .info-graphic .download-cal {
+	text-decoration: none;
+	color: #B63C44;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 16px;
+	bottom: 3px;
+	right: 0;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	position: absolute;
+	display: inline-block;
+	background: url('../img/calender.png') no-repeat top center;
+	padding-top: 55px;
+}
+
+.agenda-eat {
+	margin-left: 32%;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.agenda-schedule {
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+
+.agenda-schedule-hours {
+	font-size: 40px;
+	width: 32%;
+	float: left;
+	font-family: "ProximaNovaExtrabold";
+}
+
+.agenda-schedule-hours span {
+	margin-top: -15px;
+	text-transform: uppercase;
+	display: block;
+}
+
+.time-copy {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.schedule-odd {
+	background: #CED6E1;
+}
+
+.schedule-even {
+	background: #E7EBF0;
 }
 
 /* Print styles!
