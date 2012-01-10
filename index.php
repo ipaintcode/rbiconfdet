@@ -39,16 +39,9 @@
 			
 					<ol>
 						<li class="active"><a href="">Initiative</a></li>
-						<li class=""><a href="agenda.php">Conference</a>
-						<!-- <ul class="main-nav-secondary">
-													<li class=""><a href="">Agenda</a></li>
-													<li class="active"><a href="">IdeaLab</a></li>
-													<li class=""><a href="">Panels</a></li>
-													<li class=""><a href="">Keynote Speakers</a></li>
-												</ul> -->
-						</li>
+						<li class=""><a href="agenda.php">Conference</a></li>
 						<li class=""><a href="" tooltip="Coming Soon">Detroit Impact</a></li>
-						<li class=""><a href="http://www.eventbrite.com/event/2630495884">Register</a></li>
+						<li class=""><a href="http://www.eventbrite.com/event/1290514965/efblike">Register</a></li>
 					</ol>
 		
 				</nav>

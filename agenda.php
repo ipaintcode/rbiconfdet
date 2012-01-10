@@ -49,7 +49,7 @@
 						</ul>
 						</li>
 						<li class=""><a href="" tooltip="Coming Soon">Detroit Impact</a></li>
-						<li class=""><a href="http://www.eventbrite.com/event/2630495884">Register</a></li>
+						<li class=""><a href="http://www.eventbrite.com/event/1290514965/efblike">Register</a></li>
 					</ol>
 
 				</nav>
