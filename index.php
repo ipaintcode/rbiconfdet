@@ -134,12 +134,12 @@
 			<div class="center min-max">
 				<h5>Thank you for your support</h5>
 				<ul class="center min-max">
-					<li class="gm">GM</li>
-					<li class="det">DTE Energy</li>
-					<li class="pwc">Price Waterhouse Coppers</li>
-					<li class="netimpact">Net Impact Michigan</li>
-					<li class="del">Deloitte.</li>
-					<li class="nelsm">New Economy Initiative for Southest Michigan</li>
+					<li class="gm" tooltip="Gold Member">GM</li>
+					<li class="det" tooltip="Platinum Member">DTE Energy</li>
+					<li class="pwc" tooltip="Silver Member">Price Waterhouse Coppers</li>
+					<li class="netimpact" tooltip="Gold Member">Net Impact Michigan</li>
+					<li class="del" tooltip="Gold Member">Deloitte.</li>
+					<li class="nelsm" tooltip="Silver Member">New Economy Initiative for Southest Michigan</li>
 				</ul>
 			</div>
 		</div>

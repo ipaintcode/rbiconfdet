@@ -553,11 +553,6 @@ footer .footer-wrapper-info .info-fourth {
 	margin-right: 0;
 }
 
-
-
-
-
-
 footer .footer-wrapper-thankyou {
 	background: #22242B;
 	padding-bottom: 50px;
@@ -579,13 +574,55 @@ footer .footer-wrapper-thankyou ul li {
 	float: left;
 	text-indent: -9999px;
 	margin-right: 80px;
+	position: relative;
 }
 
 footer .footer-wrapper-thankyou ul .gm {
 	background: url('../img/logos.png') no-repeat 0 0;
 	width: 47px;
 	height: 73px;
+	position: relative;
 }
+
+footer .footer-wrapper-thankyou ul li:hover:after {
+	display: block;
+	text-align: center;
+	content: attr(tooltip);
+	position: absolute;
+	top: -20px;
+	left: 20px;
+	width: auto;
+	z-index: 1000;
+	width: 120px;
+	background: black;
+	padding: 10px;
+	text-indent: 0;
+	font-size: 12px;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	-webkit-background-clip: padding-box; /* fix WebKit background bleed on border-radius */
+	-webkit-border-radius: 7px;
+	   -moz-border-radius: 7px;
+	        border-radius: 7px;
+}
+
+footer .footer-wrapper-thankyou ul li[tooltip="Gold Member"]:hover:after {
+	background: #9c8a40;
+	color: #3c3414;
+}
+
+footer .footer-wrapper-thankyou ul li[tooltip="Platinum Member"]:hover:after {
+	background: #ebefe3;
+	color: #555555;
+}
+
+footer .footer-wrapper-thankyou ul li[tooltip="Silver Member"]:hover:after {
+	background: #9fa299;
+	color: #4c4e49;
+}
+
+
 
 footer .footer-wrapper-thankyou ul .det {
 	background: url('../img/logos.png') no-repeat -101px 0;
