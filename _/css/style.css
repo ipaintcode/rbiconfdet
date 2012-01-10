@@ -859,6 +859,43 @@ article {
 	background: #E7EBF0;
 }
 
+.agenda-social ul {
+	width: 100px;
+	margin: 0 auto;
+}
+
+.agenda-social li {
+	display: inline-block;
+	margin-left: 5px;
+}
+
+.facebook-alt a {
+	display: block;
+	height: 29px;
+	width: 30px;
+	text-indent: -9999px;
+	background: url('../img/blue_social.png') no-repeat top left;
+}
+
+.twitter-alt a {
+	display: block;
+	height: 29px;
+	width: 44px;
+	text-indent: -9999px;
+	background: url('../img/blue_social.png') no-repeat top right;	
+}
+
+.agenda-social p {
+	color: #B63C44;
+	display: block;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
 /* Print styles!
 -------------------------------------------------------------------------------*/
 @media print {

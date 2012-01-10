@@ -413,7 +413,7 @@
 			<div class="agenda-schedule-wrapper center min-max">
 				
 				<aside>
-					<p class="agenda-schedule-hours">4:00-6:30<span>pm</span></p>
+					<p class="agenda-schedule-hours">4:00-5:30<span>pm</span></p>
 				</aside>
 				<article>
 					<h4 class="breaks">Happy Hour ate Ashley's</h4>
@@ -421,13 +421,17 @@
 				
 			</div>
 
-		</section
+		</section>
 		
-		<section class="agenda-schedule schedule-even clearfix">
+		<section class="agenda-social clearfix">
 			
 			<div class="agenda-schedule-wrapper center min-max">
 				
-				social (facebook / twitter / need to add)
+				<ul>
+					<li class="facebook-alt"><a href="http://www.facebook.com/rossrnb">facebook</a></li>
+					<li class="twitter-alt"><a href="https://twitter.com/#!/rossrnb">twitter</a></li>
+				</ul>
+				<p>(Share these Schedules)</p>
 			
 			</div>
 			
