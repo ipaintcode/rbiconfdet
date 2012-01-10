@@ -105,7 +105,7 @@
 			
 		</section>
 		
-		<section class="center min-max agenda agenda-alt">
+		<section class="center min-max agenda agenda-alt clearfix">
 			
 			<h5>Conference <span>Agenda</span></h5>
 			<div class="info-graphic">
@@ -120,12 +120,12 @@
 			
 			<div class="agenda-schedule-wrapper center min-max">
 				
-				<p class="agenda-schedule-hours">6:00-7:00<span>pm</span></p>
-				<div class="time-copy">
-					<div class="time-copy">
-						<h4 class="agenda-eat breaks">Cocktail Reception</h4>
-					</div>
-				</div>
+				<aside>
+					<p class="agenda-schedule-hours">6:00-7:00<span>pm</span></p>
+				</aside>
+				<article>
+					<h4 class="breaks">Cocktail Reception</h4>
+				</article>
 				
 			</div>
 
@@ -135,11 +135,19 @@
 			
 			<div class="agenda-schedule-wrapper center min-max">
 				
-				<p class="agenda-schedule-hours">6:00-7:00<span>pm</span></p>
-				<div class="time-copy">
-					<h4 class="agenda-eat">Welcome from Revitalization &amp; Business</h4>
-				</div>
-				
+				<aside>
+					<p class="agenda-schedule-hours">6:00-7:00<span>pm</span></p>
+				</aside>
+				<article>
+					<h4>Welcome from Revitalization &amp; Business</h4>
+					<ul>
+						<li>Introduction from Dean Alison Davis-Blake</li>
+						<li>Tony Goldman, Chairman and CEO, Goldman Properties</li>
+						<li>Toby Barlow, Chief Creative Officer, Team Detroit</li>
+						<li class="last-li">Joint audience Q&amp;A with Goldman and Barlow</li>
+					</ul>
+				</article>	
+
 			</div>
 			
 		</section>
@@ -148,37 +156,52 @@
 			
 			<div class="agenda-schedule-wrapper center min-max">
 				
-				<p class="agenda-schedule-hours">6:00-7:00<span>pm</span></p>
+				<aside>
+					<p class="agenda-schedule-hours">7:00-8:00<span>pm</span></p>
+				</aside>
+				<article>
+					<h4 class="breaks">Dinner</h4>
+				</article>
 				
-				<div class="time-copy">
-					<h4 class="agenda-eat breaks">Dinner</h4>
-				</div>
 			</div>
-			
+
 		</section>
 		
 		<section class="agenda-schedule schedule-even clearfix">
 			
 			<div class="agenda-schedule-wrapper center min-max">
 				
-				<p class="agenda-schedule-hours">6:00-7:00<span>pm</span></p>
-				<div class="time-copy">
-					<h4 class="agenda-eat">Introductory Remarks</h4>
-				</div>
+				<aside>
+					<p class="agenda-schedule-hours">8:00-8:30<span>pm</span></p>
+				</aside>
+				<article>
+					<h4>Introductory Remarks</h4>
+					<ul>
+						<li>William Jones, Jr., CEO Focus:HOPE  </li>
+						<li class="last-li">Bob Paul, CEO Compuware</li>
+					</ul>
+				</article>	
+
 			</div>
-		
+			
 		</section>
 		
 		<section class="agenda-schedule schedule-odd clearfix">
 			
 			<div class="agenda-schedule-wrapper center min-max">
 				
-				<p class="agenda-schedule-hours">7:00-8:00<span>pm</span></p>
-				<div class="time-copy">
-					<h4 class="agenda-eat">Keynote Address</h4>
-				</div>
-			</div>
+				<aside>
+					<p class="agenda-schedule-hours">8:30-9:30<span>pm</span></p>
+				</aside>
+				<article>
+					<h4>Keynote Address</h4>
+					<ul>
+						<li class="last-li-single">Dan Gilbert, Founder and Chairman, Quicken Loans Inc.</li>
+					</ul>
+				</article>	
 
+			</div>
+			
 		</section>
 		
 		<section class="center min-max agenda agenda-alt">
@@ -192,16 +215,73 @@
 
 		</section>
 
+		<section class="agenda-schedule schedule-even clearfix">
+			
+			<div class="agenda-schedule-wrapper center min-max">
+				
+				<aside>
+					<p class="agenda-schedule-hours">8:00-8:30<span>am</span></p>
+				</aside>
+				<article>
+					<h4 class="breaks">Continential Breakfast</h4>
+				</article>
+				
+			</div>
+
+		</section>
+		
 		<section class="agenda-schedule schedule-odd clearfix">
 			
 			<div class="agenda-schedule-wrapper center min-max">
 				
-				<p class="agenda-schedule-hours">8:00-8:30<span>am</span></p>
-				<div class="time-copy">
-					<div class="time-copy">
-						<h4 class="agenda-eat breaks">Continental Breakfast</h4>
-					</div>
-				</div>
+				<aside>
+					<p class="agenda-schedule-hours">8:30-10:15<span>am</span></p>
+				</aside>
+				<article>
+					<h4>Keynote Kickoff</h4>
+					<ul>
+						<li>Introduction from Dean Alison Davis-Blake</li>
+						<li>Tony Goldman, Chairman and CEO, Goldman Properties</li>
+						<li>Toby Barlow, Chief Creative Officer, Team Detroit</li>
+						<li class="last-li">Joint audience Q&amp;A with Goldman and Barlow</li>
+					</ul>
+				</article>	
+
+			</div>
+			
+		</section>
+		
+		<section class="agenda-schedule schedule-even clearfix">
+			
+			<div class="agenda-schedule-wrapper center min-max">
+				
+				<aside>
+					<p class="agenda-schedule-hours">8:30-10:15<span>am</span></p>
+				</aside>
+				<article>
+					<h4>Keynote Kickoff</h4>
+					<ul>
+						<li>Introduction from Dean Alison Davis-Blake</li>
+						<li>Tony Goldman, Chairman and CEO, Goldman Properties</li>
+						<li>Toby Barlow, Chief Creative Officer, Team Detroit</li>
+						<li class="last-li">Joint audience Q&amp;A with Goldman and Barlow</li>
+					</ul>
+				</article>	
+
+			</div>
+			
+		</section>
+		
+		<section class="agenda-schedule schedule-odd clearfix">
+			
+			<div class="agenda-schedule-wrapper center min-max">
+				
+				<aside>
+					<p class="agenda-schedule-hours">10:15-10:30<span>am</span></p>
+				</aside>
+				<article>
+					<h4 class="breaks">Coffee break and transition time</h4>
+				</article>
 				
 			</div>
 
@@ -211,11 +291,71 @@
 			
 			<div class="agenda-schedule-wrapper center min-max">
 				
-				<p class="agenda-schedule-hours">8:30-10:15<span>am</span></p>
-				<div class="time-copy">
-					<h4 class="agenda-eat">Keynote Kickoff</h4>
-				</div>
-				
+				<aside>
+					<p class="agenda-schedule-hours">10:30-11:45<span>am</span></p>
+				</aside>
+				<article>
+					<h4>Panels</h4>
+					<h4 class="hchild">Art + Soul of Detroit: Investing in the Creative Economy</h4>
+					<ul>
+						<li class="last-li">Jennifer Guerra, Arts &amp; Culture Reporter/Producer Michigan Radio</li>
+					</ul>
+					<h4 class="subheadline">Moderator</h4>
+					<ul>
+						<li>Phillip Cooley, Owner of Pony Ride & Founder of Slow’s BBQ</li>
+						<li>Bethany Beltzer, Associate Director, Detroit Creative Corridor Center</li>
+						<li>Dante Marshall, Founder, Art Direction</li>
+						<li class="last-li">Cezanne Charles, Director of Creative Industries, ArtServe Michigan</li>
+					</ul>
+					
+					
+					<!-- -->
+					
+					
+					<h4 class="hchild">Edible Detroit – How a Culture of Food is Shaping Detroit’s Economy</h4>
+					<ul>
+						<li class="last-li">Randall Fogelman - Vice President of Business Development, Eastern Market</li>
+					</ul>
+					<h4 class="subheadline">Moderator</h4>
+					<ul>
+						<li>Jess Daniel – Founder & Coordinator, FoodLab Detroit</li>
+						<li>Amanda Muselli – Whole Foods Detroit Community Liaison</li>
+						<li>Jackie Victor – Founder, Avalon International Breads</li>
+						<li class="last-li">Kenyetta Hairston-Bridges – Business Development Manger, Detroit Economic  Growth Corporation</li>
+					</ul>
+					
+					
+					<!-- -->
+					
+					
+					<h4 class="hchild">Incubating Entrepreneurship</h4>
+					<ul>
+						<li>Ganesh "Ananth" Ananthasubramaniam, Vice President, DTE Energy Ventures</li>
+						<li>Bryan Kunka, Co-Founder and CEO, PicketReport</li>
+						<li>Jacob Cohen, Vice President, Detroit Venture Partners</li>
+						<li>Reid Tatoris, Co-Founder, Are You a Human?</li>
+						<li class="last-li">Ocie Irons, Director of Entrepreneurial Programming, Tech Town</li>
+					</ul>
+
+
+					<!-- -->
+					
+					
+					<h4 class="hchild">Place-(re)making & the Rebuilding of Corktown, Midtown, and Downtown Detroit</h4>
+					<ul>
+						<li class="last-li">John Mogk, J.D.: Wayne State University Law School</li>
+					</ul>
+					<h4 class="subheadline">Moderator</h4>
+					<ul>
+						<li>Sue Mosey – President, Midtown Detroit., Inc</li>
+						<li>Ernie Zachary – Founder and President, Zachary Associates</li>
+						<li>David Blaszkiewicz – CEO, Downtown Detroit Partnership, President, Invest Detroit</li>
+						<li>Lou Glazer, President and Co-Founder, Michigan Future, Inc.</li>
+						<li class="last-li">[Malik Goodwin: VP, DEGC]</li>
+					</ul>
+					
+				</article>	
+
 			</div>
 			
 		</section>
@@ -224,64 +364,64 @@
 			
 			<div class="agenda-schedule-wrapper center min-max">
 				
-				<p class="agenda-schedule-hours">10:15-10:30<span>am</span></p>
+				<aside>
+					<p class="agenda-schedule-hours">12:00-12:45<span>pm</span></p>
+				</aside>
+				<article>
+					<h4>Lunch and Lunchtime Remarks</h4>
+					<ul>
+						<li class="last-li">Annis Brown – Executive Director, Teach for America - Detroit</li>
+					</ul>
+				</article>
 				
-				<div class="time-copy">
-					<h4 class="agenda-eat breaks">Coffee break and transition time</h4>
-				</div>
 			</div>
-			
+
 		</section>
 		
 		<section class="agenda-schedule schedule-even clearfix">
 			
 			<div class="agenda-schedule-wrapper center min-max">
 				
-				<p class="agenda-schedule-hours">10:30-11:45<span>am</span></p>
-				<div class="time-copy">
-					<h4 class="agenda-eat">Panels</h4>
-				</div>
+				<aside>
+					<p class="agenda-schedule-hours">1:00-3:30<span>pm</span></p>
+				</aside>
+				<article>
+					<h4>IdeaLab</h4>
+					<ul>
+						<li class="last-li">Introduction: Phil Cooley, Owner of Pony Ride & Founder of Slow’s BBQ </li>
+					</ul>
+					<h4>Participants</h4>
+					<ul>
+						<li>Brian Balasia, The MORE Program</li>
+						<li>Nick Gorga & Ted Balowski, Hatch Detroit</li>
+						<li>Rishi Jaitly, Kiva Detroit and Knight Foundation</li>
+						<li>Lorron James, James Group International,</li>
+						<li>Josh McManus, D:hive</li>
+						<li>Veronika Scott, The Empowerment Plan</li>
+						<li>Delphia Simmons, Thrive Detroit</li>
+						<li>Bobby Smith, En Garde Detroit</li>
+						<li class="last-li">zanne Vier, Simply Suzanne and Tashmoo Biergarten.</li>
+					</ul>
+				</article>
+				
 			</div>
-		
+
 		</section>
 		
 		<section class="agenda-schedule schedule-odd clearfix">
 			
 			<div class="agenda-schedule-wrapper center min-max">
 				
-				<p class="agenda-schedule-hours">12:00-12:45<span>pm</span></p>
+				<aside>
+					<p class="agenda-schedule-hours">4:00-6:30<span>pm</span></p>
+				</aside>
+				<article>
+					<h4 class="breaks">Happy Hour ate Ashley's</h4>
+				</article>
 				
-				<div class="time-copy">
-					<h4 class="agenda-eat breaks">Lunch and Lunchtime Remarks</h4>
-				</div>
 			</div>
-			
-		</section>
-		
-		<section class="agenda-schedule schedule-even clearfix">
-			
-			<div class="agenda-schedule-wrapper center min-max">
-				
-				<p class="agenda-schedule-hours">1:00-3:30<span>pm</span></p>
-				<div class="time-copy">
-					<h4 class="agenda-eat">IdeaLab</h4>
-				</div>
-			</div>
-		
-		</section>
-		
-		<section class="agenda-schedule schedule-odd clearfix">
-			
-			<div class="agenda-schedule-wrapper center min-max">
-				
-				<p class="agenda-schedule-hours">4:00-5:30<span>pm</span></p>
-				
-				<div class="time-copy">
-					<h4 class="agenda-eat breaks">Happy Hour at Ashley's</h4>
-				</div>
-			</div>
-			
-		</section>
+
+		</section
 		
 		<section class="agenda-schedule schedule-even clearfix">
 			
