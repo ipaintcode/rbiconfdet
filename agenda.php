@@ -103,7 +103,6 @@
 				<p>R&amp;B hosts an annual two-day capstone conference featuring prominent industry and city leaders and entrepreneurial change agents. The conference examines how business issues contribute to Detroit&rsquo;s progress and transformation through vibrant speakers, in-depth panel discussions, and an interactive, fast-faced IdeaLab co-hosted by Model D Media. This year&rsquo;s event, Detroit SHIFT, will take place on January 19-20 in Detroit and Ann Arbor.</p>
 			</div>
 			
-			
 		</section>
 		
 		<section class="center min-max agenda agenda-alt">
@@ -115,7 +114,6 @@
 				<a class="download-cal" href="">(Download)</a>
 			</div>
 			
-			
 		</section>
 		
 		<section class="agenda-schedule schedule-odd clearfix">
@@ -124,14 +122,13 @@
 				
 				<p class="agenda-schedule-hours">6:00-7:00<span>pm</span></p>
 				<div class="time-copy">
-					<p>
+					<div class="time-copy">
 						<h4 class="agenda-eat">Cocktail Reception</h4>
-					</p>
+					</div>
 				</div>
 				
 			</div>
-			
-			
+
 		</section>
 		
 		<section class="agenda-schedule schedule-even clearfix">
@@ -140,11 +137,10 @@
 				
 				<p class="agenda-schedule-hours">6:00-7:00<span>pm</span></p>
 				<div class="time-copy">
-				
+					<h4 class="agenda-eat">Welcome from Revitalization & Business</h4>
 				</div>
 				
 			</div>
-			
 			
 		</section>
 		
@@ -154,8 +150,10 @@
 				
 				<p class="agenda-schedule-hours">6:00-7:00<span>pm</span></p>
 				
+				<div class="time-copy">
+					<h4 class="agenda-eat">Dinner</h4>
+				</div>
 			</div>
-			
 			
 		</section>
 		
@@ -164,11 +162,10 @@
 			<div class="agenda-schedule-wrapper center min-max">
 				
 				<p class="agenda-schedule-hours">6:00-7:00<span>pm</span></p>
-				
+				<div class="time-copy">
+					<h4 class="agenda-eat">Introductory Remarks</h4>
+				</div>
 			</div>
-			
-			
-		</section>
 		
 		</section>
 		
@@ -177,11 +174,122 @@
 			<div class="agenda-schedule-wrapper center min-max">
 				
 				<p class="agenda-schedule-hours">7:00-8:00<span>pm</span></p>
-				<p>
-					<h4 class="agenda-eat">Dinner</h4>
-				</p>
+				<div class="time-copy">
+					<h4 class="agenda-eat">Keynote Address</h4>
+				</div>
+			</div>
+
+		</section>
+		
+		<section class="center min-max agenda agenda-alt">
+			
+			<h5>Conference <span>Agenda</span></h5>
+			<div class="info-graphic">
+				<p class="agenda-date">20<span>jan 2012</span></p>
+				<p class="agenda-custom">Ross School of Business, <br />University of Michigan<span><a href="">(Find Location)</a></span></p>
+				<a class="download-cal" href="">(Download)</a>
+			</div>
+
+		</section>
+
+		<section class="agenda-schedule schedule-odd clearfix">
+			
+			<div class="agenda-schedule-wrapper center min-max">
+				
+				<p class="agenda-schedule-hours">8:00-8:30<span>am</span></p>
+				<div class="time-copy">
+					<div class="time-copy">
+						<h4 class="agenda-eat">Continental Breakfast</h4>
+					</div>
+				</div>
+				
+			</div>
+
+		</section>
+		
+		<section class="agenda-schedule schedule-even clearfix">
+			
+			<div class="agenda-schedule-wrapper center min-max">
+				
+				<p class="agenda-schedule-hours">8:30-10:15<span>am</span></p>
+				<div class="time-copy">
+					<h4 class="agenda-eat">Keynote Kickoff</h4>
+				</div>
+				
 			</div>
 			
+		</section>
+		
+		<section class="agenda-schedule schedule-odd clearfix">
+			
+			<div class="agenda-schedule-wrapper center min-max">
+				
+				<p class="agenda-schedule-hours">10:15-10:30<span>am</span></p>
+				
+				<div class="time-copy">
+					<h4 class="agenda-eat">Coffee break and transition time</h4>
+				</div>
+			</div>
+			
+		</section>
+		
+		<section class="agenda-schedule schedule-even clearfix">
+			
+			<div class="agenda-schedule-wrapper center min-max">
+				
+				<p class="agenda-schedule-hours">10:30-11:45<span>am</span></p>
+				<div class="time-copy">
+					<h4 class="agenda-eat">Panels</h4>
+				</div>
+			</div>
+		
+		</section>
+		
+		<section class="agenda-schedule schedule-odd clearfix">
+			
+			<div class="agenda-schedule-wrapper center min-max">
+				
+				<p class="agenda-schedule-hours">12:00-12:45<span>pm</span></p>
+				
+				<div class="time-copy">
+					<h4 class="agenda-eat">Lunch and Lunchtime Remarks</h4>
+				</div>
+			</div>
+			
+		</section>
+		
+		<section class="agenda-schedule schedule-even clearfix">
+			
+			<div class="agenda-schedule-wrapper center min-max">
+				
+				<p class="agenda-schedule-hours">1:00-3:30<span>pm</span></p>
+				<div class="time-copy">
+					<h4 class="agenda-eat">IdeaLab</h4>
+				</div>
+			</div>
+		
+		</section>
+		
+		<section class="agenda-schedule schedule-odd clearfix">
+			
+			<div class="agenda-schedule-wrapper center min-max">
+				
+				<p class="agenda-schedule-hours">4:00-5:30<span>pm</span></p>
+				
+				<div class="time-copy">
+					<h4 class="agenda-eat">Happy Hour at Ashley's</h4>
+				</div>
+			</div>
+			
+		</section>
+		
+		<section class="agenda-schedule schedule-even clearfix">
+			
+			<div class="agenda-schedule-wrapper center min-max">
+				
+				social (facebook / twitter / need to add)
+			
+			</div>
 			
 		</section>
 		
