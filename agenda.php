@@ -136,15 +136,12 @@
 			<div class="agenda-schedule-wrapper center min-max">
 				
 				<aside>
-					<p class="agenda-schedule-hours">6:00-7:00<span>pm</span></p>
+					<p class="agenda-schedule-hours">7:15-7:35<span>pm</span></p>
 				</aside>
 				<article>
 					<h4>Welcome from Revitalization &amp; Business</h4>
 					<ul>
-						<li>Introduction from Dean Alison Davis-Blake</li>
-						<li>Tony Goldman, Chairman and CEO, Goldman Properties</li>
-						<li>Toby Barlow, Chief Creative Officer, Team Detroit</li>
-						<li class="last-li">Joint audience Q&amp;A with Goldman and Barlow</li>
+						<li class="last-li-single">Club Co-Presidents Stephanie Simon and Grant Hughes</li>
 					</ul>
 				</article>	
 
@@ -157,7 +154,7 @@
 			<div class="agenda-schedule-wrapper center min-max">
 				
 				<aside>
-					<p class="agenda-schedule-hours">7:00-8:00<span>pm</span></p>
+					<p class="agenda-schedule-hours">7:35-8:00<span>pm</span></p>
 				</aside>
 				<article>
 					<h4 class="breaks">Dinner (buffet)</h4>
@@ -209,7 +206,7 @@
 			<h5>Conference <span>Agenda</span></h5>
 			<div class="info-graphic">
 				<p class="agenda-date">20<span>jan 2012</span></p>
-				<p class="agenda-custom">Ross School of Business, <br />University of Michigan<span><a href="">(Find Location)</a></span></p>
+				<p class="agenda-custom">Ross School of Business, <br />University of Michigan<span><a href="http://maps.google.com/maps/place?cid=11816770632901757829" target="_blank">(Find Location)</a></span></p>
 				<a class="download-cal" href="">(Download)</a>
 			</div>
 
@@ -230,7 +227,7 @@
 
 		</section>
 		
-		<section class="agenda-schedule schedule-even clearfix">
+		<section class="agenda-schedule schedule-odd clearfix">
 			
 			<div class="agenda-schedule-wrapper center min-max">
 				
@@ -238,7 +235,7 @@
 					<p class="agenda-schedule-hours">8:30-10:15<span>am</span></p>
 				</aside>
 				<article>
-					<h4>Keynote Kickoff</h4>
+					<h4>Keynote Kickoff <span>(Location: Blau Auditorium)</span></h4>
 					<ul>
 						<li>Introduction from Dean Alison Davis-Blake</li>
 						<li>Tony Goldman, Chairman and CEO, Goldman Properties</li>
@@ -251,7 +248,7 @@
 			
 		</section>
 		
-		<section class="agenda-schedule schedule-odd clearfix">
+		<section class="agenda-schedule schedule-even clearfix">
 			
 			<div class="agenda-schedule-wrapper center min-max">
 				
@@ -266,7 +263,7 @@
 
 		</section>
 		
-		<section class="agenda-schedule schedule-even clearfix">
+		<section class="agenda-schedule schedule-odd clearfix">
 			
 			<div class="agenda-schedule-wrapper center min-max">
 				
@@ -275,7 +272,7 @@
 				</aside>
 				<article>
 					<h4>Panels</h4>
-					<h4 class="hchild">Art + Soul of Detroit: Investing in the Creative Economy</h4>
+					<h4 class="hchild">Art + Soul of Detroit: Investing in the Creative Economy<span>(Location: R1210)</span></h4>
 					<ul>
 						<li class="last-li">Jennifer Guerra, Arts &amp; Culture Reporter/Producer Michigan Radio</li>
 					</ul>
@@ -291,13 +288,13 @@
 					<!-- -->
 					
 					
-					<h4 class="hchild">Edible Detroit – How a Culture of Food is Shaping Detroit’s Economy</h4>
+					<h4 class="hchild">Edible Detroit - How a Culture of Food is Shaping Detroit’s Economy<span>(Location: R1220)</span></h4>
 					<ul>
 						<li class="last-li">Randall Fogelman - Vice President of Business Development, Eastern Market</li>
 					</ul>
 					<h4 class="subheadline">Moderator</h4>
 					<ul>
-						<li>Jess Daniel – Founder & Coordinator, FoodLab Detroit</li>
+						<li>Jess Daniel – Founder &amp; Coordinator, FoodLab Detroit</li>
 						<li>Amanda Muselli – Whole Foods Detroit Community Liaison</li>
 						<li>Jackie Victor – Founder, Avalon International Breads</li>
 						<li class="last-li">Kenyetta Hairston-Bridges – Business Development Manger, Detroit Economic  Growth Corporation</li>
@@ -307,7 +304,7 @@
 					<!-- -->
 					
 					
-					<h4 class="hchild">Incubating Entrepreneurship</h4>
+					<h4 class="hchild">Incubating Entrepreneurship<span>(Location: R2210)</span></h4>
 					<ul>
 						<li>Ganesh "Ananth" Ananthasubramaniam, Vice President, DTE Energy Ventures</li>
 						<li>Bryan Kunka, Co-Founder and CEO, PicketReport</li>
@@ -320,7 +317,7 @@
 					<!-- -->
 					
 					
-					<h4 class="hchild">Place-(re)making & the Rebuilding of Corktown, Midtown, and Downtown Detroit</h4>
+					<h4 class="hchild">Place-(re)making &amp; the Rebuilding of Corktown, Midtown, and Downtown Detroit<span>(Location: R2220)</span></h4>
 					<ul>
 						<li class="last-li">John Mogk, J.D.: Wayne State University Law School</li>
 					</ul>
@@ -339,7 +336,7 @@
 			
 		</section>
 		
-		<section class="agenda-schedule schedule-odd clearfix">
+		<section class="agenda-schedule schedule-even clearfix">
 			
 			<div class="agenda-schedule-wrapper center min-max">
 				
@@ -347,9 +344,27 @@
 					<p class="agenda-schedule-hours">12:00-12:45<span>pm</span></p>
 				</aside>
 				<article>
-					<h4>Lunch and Lunchtime Remarks</h4>
+					<h4>Lunch and Lunchtime Remarks<span>(Location: Colloquium on the 6th floor of Ross)</span></h4>
 					<ul>
-						<li class="last-li">Annis Brown – Executive Director, Teach for America - Detroit</li>
+						<li class="last-li-single">Annis Brown – Executive Director, Teach for America - Detroit</li>
+					</ul>
+				</article>
+				
+			</div>
+
+		</section>
+		
+		<section class="agenda-schedule schedule-odd clearfix">
+			
+			<div class="agenda-schedule-wrapper center min-max">
+				
+				<aside>
+					<p class="agenda-schedule-hours">1:00-3:30<span>pm</span></p>
+				</aside>
+				<article>
+					<h4>IdeaLab <span>(Location: Blau Auditorium)</span></h4>
+					<ul>
+						<li class="last-li">Introduction: Phil Cooley, Owner of Pony Ride &amp; Founder of Slow’s BBQ</li>
 					</ul>
 				</article>
 				
@@ -362,40 +377,11 @@
 			<div class="agenda-schedule-wrapper center min-max">
 				
 				<aside>
-					<p class="agenda-schedule-hours">1:00-3:30<span>pm</span></p>
-				</aside>
-				<article>
-					<h4>IdeaLab</h4>
-					<ul>
-						<li class="last-li">Introduction: Phil Cooley, Owner of Pony Ride & Founder of Slow’s BBQ </li>
-					</ul>
-					<h4>Participants</h4>
-					<ul>
-						<li>Brian Balasia, The MORE Program</li>
-						<li>Nick Gorga & Ted Balowski, Hatch Detroit</li>
-						<li>Rishi Jaitly, Kiva Detroit and Knight Foundation</li>
-						<li>Lorron James, James Group International,</li>
-						<li>Josh McManus, D:hive</li>
-						<li>Veronika Scott, The Empowerment Plan</li>
-						<li>Delphia Simmons, Thrive Detroit</li>
-						<li>Bobby Smith, En Garde Detroit</li>
-						<li class="last-li">zanne Vier, Simply Suzanne and Tashmoo Biergarten.</li>
-					</ul>
-				</article>
-				
-			</div>
-
-		</section>
-		
-		<section class="agenda-schedule schedule-odd clearfix">
-			
-			<div class="agenda-schedule-wrapper center min-max">
-				
-				<aside>
 					<p class="agenda-schedule-hours">4:00-5:30<span>pm</span></p>
 				</aside>
 				<article>
-					<h4 class="breaks">Happy Hour ate Ashley's</h4>
+					<h4 class="breaks">Happy Hour at Ashley's<span><a href="http://maps.google.com/maps/place?cid=3506933071378011547" target="_blank">(Location: Ashley’s at 338 S State St.  Ann Arbor, MI)</a></span></h4>
+					
 				</article>
 				
 			</div>
