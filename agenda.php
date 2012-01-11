@@ -160,7 +160,7 @@
 					<p class="agenda-schedule-hours">7:00-8:00<span>pm</span></p>
 				</aside>
 				<article>
-					<h4 class="breaks">Dinner</h4>
+					<h4 class="breaks">Dinner (buffet)</h4>
 				</article>
 				
 			</div>
@@ -177,7 +177,7 @@
 				<article>
 					<h4>Introductory Remarks</h4>
 					<ul>
-						<li>William Jones, Jr., CEO Focus:HOPE  </li>
+						<li>William Jones, Jr., CEO Focus:HOPE</li>
 						<li class="last-li">Bob Paul, CEO Compuware</li>
 					</ul>
 				</article>	
@@ -228,27 +228,6 @@
 				
 			</div>
 
-		</section>
-		
-		<section class="agenda-schedule schedule-odd clearfix">
-			
-			<div class="agenda-schedule-wrapper center min-max">
-				
-				<aside>
-					<p class="agenda-schedule-hours">8:30-10:15<span>am</span></p>
-				</aside>
-				<article>
-					<h4>Keynote Kickoff</h4>
-					<ul>
-						<li>Introduction from Dean Alison Davis-Blake</li>
-						<li>Tony Goldman, Chairman and CEO, Goldman Properties</li>
-						<li>Toby Barlow, Chief Creative Officer, Team Detroit</li>
-						<li class="last-li">Joint audience Q&amp;A with Goldman and Barlow</li>
-					</ul>
-				</article>	
-
-			</div>
-			
 		</section>
 		
 		<section class="agenda-schedule schedule-even clearfix">
