@@ -38,8 +38,15 @@
 				<nav class="main-nav">
 			
 					<ol>
-						<li class="active"><a href="">Initiative</a></li>
-						<li class=""><a href="agenda.php">Conference</a></li>
+						<li class=""><a href="index.php">Initiative</a></li>
+						<li class="active"><a href="agenda.php">Conference</a>
+						<ul class="main-nav-secondary">
+							<li class=""><a href="agenda.php">Agenda</a></li>
+							<li class=""><a href="idealab.php">IdeaLab</a></li>
+							<li class=""><a href="panels.php">Panels</a></li>
+							<li class="active"><a href="keynote.php">Keynote Speakers</a></li>
+						</ul>
+						</li>
 						<li class=""><a href="" tooltip="Coming Soon">Detroit Impact</a></li>
 						<li class=""><a href="http://www.eventbrite.com/event/2630495884?utm_source=eb_email&utm_medium=email&utm_campaign=new_eventv2&utm_term=eventurl_text">Register</a></li>
 					</ol>
@@ -70,10 +77,6 @@
 
 			</div>
 			
-			<div class="message clearfix">
-				<h2>We’re changing<span>the conversation</span></h2>
-				<p>Educating and engaging students in business issues shaping Detroit</p>
-			</div>
 			<!-- <div class="billboard-gallery">
 				<ul class="billboard-gallery-inner">
 					<li><img src="_/img/1.jpg" alt="2"></li>
@@ -92,23 +95,11 @@
 		
 		<section class="center min-max">
 			
-			<ul class="col-three">
-				<li class="pillar">
-					<h3 class="ross">Michigan Ross School of Business</h3>
-					<h4>Who we are</h4>
-					<p>Launched by Ross School of Business MBAs in 2010, R&amp;B connects University of Michigan students with Detroit&rsquo;s evolving business landscape. R&amp;B promotes Detroit&rsquo;s assets and encourages students to explore opportunities in the Motor City.</p>
-				</li>
-				<li class="pillar">
-					<h3 class="oldenglish">Detroit</h3>
-					<h4>What we do</h4>
-					<p>R&amp;B hosts an annual capstone conference examining key business initiatives in Detroit. We also organize excursions and plan events to highlight the city&rsquo;s career opportunities, rich culture, and quality of life.</p>
-				</li>
-				<li>
-					<h3 class="cityscape">City</h3>
-					<h4>Where we are going</h4>
-					<p>We strive for impact by contributing to Detroit organizations through student-run consulting projects and motivating UM students to choose Detroit as a career and lifestyle destination. R&amp;B engages students with the important issues shaping the city&rsquo;s future.</p>
-				</li>
-			</ul>
+			<section class="center min-max agenda">
+
+				<h5>Conference <span>Keynote Speakers</span></h5>
+
+			</section>
 			
 		</section>
 		

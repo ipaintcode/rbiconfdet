@@ -14,7 +14,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	
-	<title>Revitalization &amp; Business Initiative</title>
+	<title>Revitalization &amp; Business Initiative | Agenda</title>
 
 	<link rel="shortcut icon" href="_/img/favicon.ico">
 	
@@ -43,9 +43,9 @@
 						<li class="active"><a href="agenda.php">Conference</a>
 						<ul class="main-nav-secondary">
 							<li class="active"><a href="agenda.php">Agenda</a></li>
-							<li class=""><a href="">IdeaLab</a></li>
-							<li class=""><a href="">Panels</a></li>
-							<li class=""><a href="">Keynote Speakers</a></li>
+							<li class=""><a href="idealab.php">IdeaLab</a></li>
+							<li class=""><a href="panels.php">Panels</a></li>
+							<li class=""><a href="keynote.php">Keynote Speakers</a></li>
 						</ul>
 						</li>
 						<li class=""><a href="" tooltip="Coming Soon">Detroit Impact</a></li>
@@ -78,15 +78,6 @@
 
 			</div>
 			
-			<!-- <div class="billboard-gallery">
-				<ul class="billboard-gallery-inner">
-					<li><img src="_/img/1.jpg" alt="2"></li>
-					<li><img src="_/img/2.jpg" alt="2"></li>
-					<li><img src="_/img/2.jpg" alt="2"></li>
-				</ul>
-			</div> -->
-
-
 			<div class="billboard"></div>
 
 		</header>
@@ -417,18 +408,18 @@
 			<div class="center min-max">
 				<h5>Thank you for your support</h5>
 				<ul class="">
-					<li class="gm" tooltip="Gold Member">GM</li>
-					<li class="det" tooltip="Platinum Member">DTE Energy</li>
-					<li class="focus" tooltip="Platinum Member">Focus: HOPE</li>
-					<li class="del" tooltip="Gold Member">Deloitte.</li>
-					<li class="neism" tooltip="Gold Member">Net Impact Michigan</li>
+					<li class="gm" tooltip="Platinum">GM</li>
+					<li class="det" tooltip="Premium">DTE Energy</li>
+					<li class="focus" tooltip="Platinum">Focus: HOPE</li>
+					<li class="del" tooltip="Supporting">Deloitte.</li>
+					<li class="neism" tooltip="Platinum">Net Impact Michigan</li>
 				</ul>
 				<ul class="second-logos">
-					<li class="pwc" tooltip="Silver Member">Price Waterhouse Coppers</li>
-					<li class="netimpact" tooltip="Silver Member">New Economy Initiative for Southest Michigan</li>
-					<li class="meritor" tooltip="Silver Member">Meritor</li>
-					<li class="ql" tooltip="Silver Member">Quicken Loans</li>
-					<li class="sga" tooltip="Silver Member">SGA</li>
+					<li class="pwc" tooltip="Supporting">Price Waterhouse Coppers</li>
+					<li class="netimpact" tooltip="Silver">New Economy Initiative for Southest Michigan</li>
+					<li class="meritor" tooltip="Gold">Meritor</li>
+					<li class="ql" tooltip="Supporting">Quicken Loans</li>
+					<li class="sga" tooltip="Premium">SGA</li>
 				</ul>
 			</div>
 		</div>
