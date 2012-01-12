@@ -236,6 +236,7 @@ header h1 a {
 
 header .main-nav {
 	float: left;
+	display: relative;
 }
 
 header .main-nav a {
@@ -247,10 +248,39 @@ header .main-nav a {
 	font-family: "ProximaNovaExtrabold";
 }
 
+header .main-nav li {
+	display: relative;
+}
+
 header .main-nav .active a,
 header .main-nav a:hover {
 	color: #707F95;
 }
+
+header .main-nav a[tooltip="Coming Soon"]:hover:after {
+	display: block;
+	text-align: center;
+	content: "Coming Soon";
+	position: absolute;
+	color: white;
+	width: auto;
+	z-index: 1000;
+	width: 120px;
+	background: black;
+	padding: 10px;
+	margin-top: -35px;
+	margin-left: 255px;
+	text-indent: 0;
+	font-size: 12px;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	-webkit-background-clip: padding-box; /* fix WebKit background bleed on border-radius */
+	-webkit-border-radius: 7px;
+	   -moz-border-radius: 7px;
+	        border-radius: 7px;
+}
+
 
 header ul.main-nav-secondary {
 	margin: 2px 0 4px 30px;
@@ -420,31 +450,6 @@ height: 10px;*/
 	display: block;
 	margin: -10px 0 10px 0;
 }
-
-/*.billboard-gallery {
-	position: absolute;
-	top: 0;
-	left: 0;
-	background: #475467;
-	width: 100%;
-	z-index: -1;
-	height: 100%;
-}
-
-.billboard-gallery-inner {
-	position: absolute;
-	top: 0;
-	left: 50%;
-	margin-left: -650px;
-	width: 1300px;
-}
-
-.billboard-gallery li img {
-	position: absolute;
-	top: 0;
-	left: 0;
-	
-}*/
 
 .content-wrapper {
 	color: #465467;
@@ -935,6 +940,59 @@ article h4 span a {
 	margin-top: 20px;
 	margin-bottom: 30px;
 }
+
+
+
+/* Kenotes styles!
+-------------------------------------------------------------------------------*/
+
+.keynotes-seperate {
+	margin-top: 42px;
+	border-top: 1px solid #E7EBF0;
+}
+
+.keynotes {
+	margin-top: 50px;
+}
+
+.keynotes aside {
+	width: 30%;
+}
+
+.keynotes article h5 {
+	width: 90%;
+	position: relative;
+	color: #91cdcb;
+	line-height: 26px;
+	font-size: 29px;
+	font-style: normal;
+	font-family: "ProximaNovaExtrabold";
+	margin-bottom: 30px;
+}
+
+.keynotes article h5:after {
+	content: url('../img/light_blue_arrow.jpg');
+	position: absolute;
+	bottom: -23px;
+	left: 0;
+}
+
+.keynotes article h6 {
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: bold;
+	margin-top:  15px;
+	margin-bottom: -10px;
+}
+
+.keynotes article p {
+	line-height: 20px;
+	color: #445568;
+	font-size: 14px;
+	font-weight: normal;
+	margin-top:  15px;
+}
+
 
 /* Print styles!
 -------------------------------------------------------------------------------*/

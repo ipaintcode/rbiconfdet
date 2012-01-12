@@ -90,7 +90,7 @@
 			
 			<h5>Conference <span>Description</span></h5>
 			<div class="info-graphic">
-				<a href=""><img src="_/img/watch_videos.jpg" alt="Watch Videos"></a>
+				<a href="http://vimeo.com/user6011432/videos/" target="_blank"><img src="_/img/watch_videos.jpg" alt="Watch Videos"></a>
 				<p>R&amp;B hosts an annual two-day capstone conference featuring prominent industry and city leaders and entrepreneurial change agents. The conference examines how business issues contribute to Detroit&rsquo;s progress and transformation through vibrant speakers, in-depth panel discussions, and an interactive, fast-faced IdeaLab co-hosted by Model D Media. This year&rsquo;s event, Detroit SHIFT, will take place on January 19-20 in Detroit and Ann Arbor.</p>
 			</div>
 			

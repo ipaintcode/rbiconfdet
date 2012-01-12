@@ -47,7 +47,7 @@
 							<li class=""><a href="keynote.php">Keynote Speakers</a></li>
 						</ul>
 						</li>
-						<li class=""><a href="" tooltip="Coming Soon">Detroit Impact</a></li>
+						<li class=""><a href="#" tooltip="Coming Soon">Detroit Impact</a></li>
 						<li class=""><a href="http://www.eventbrite.com/event/2630495884?utm_source=eb_email&utm_medium=email&utm_campaign=new_eventv2&utm_term=eventurl_text">Register</a></li>
 					</ol>
 		
@@ -84,15 +84,197 @@
 	
 	<div class="content-wrapper clearfix">
 		
-		<section class="center min-max">
+		<section class="center min-max agenda">
 			
-			<section class="center min-max agenda">
-
-				<h5>Conference <span>IdeaLab</span></h5>
-
-			</section>
-			
+			<h5>Conference <span>IdeaLab</span></h5>
+		
 		</section>
+		
+		<section class="center min-max keynotes clearfix">
+			
+			<aside>
+				<img src="_/img/idealab/balasia.jpg" alt="Gilbert">
+			</aside>
+			<article>
+				<h5>Brian Balasia, The MORE Program:</h5>
+
+				<p>Brian Balasia is the President and Founder of Digerati, Inc. His company, headquartered in Detroit, Michigan, was established in 2001. Since that time, Balasia and Digerati have become known as leaders in business process engineering. The company continues to grow through developing and implementing comprehensive technology systems for a range of national clients in a variety of industries, including security, medical research, and economic development. As Founder and President of The MORE Program, Brian Balasia has created programs to facilitate economic growth and spark collaboration. The MORE Program’s entrepreneurship resource matching system, InsYght, connects emerging businesses to available resources throughout the region.</p>
+
+			</article>
+
+		</section>
+
+		<section class="keynotes-seperate clearfix"></section>
+		
+		<section class="center min-max keynotes clearfix">
+			
+			<aside>
+				<img src="_/img/idealab/balowski.jpg" alt="Gilbert">
+			</aside>
+			<article>
+				<h5>Ted Balowski, Hatch Detroit:</h5>
+
+				<p>Considered, the tall, good looking one, Ted Balowski is passionate about Detroit and passionate about entrepreneurs! He has started several businesses in the last 10 years, including Ballgame Holdings, Ballgame Consulting, 4DetroitDudes.com, and ContractorKey, LLC, and is also a current Account Executive with CareTech Solutions, a Michigan based healthcare IT company.  Ted is very interested in helping other entrepreneurs, and shining a bright light on all the positive things going on in the City of Detroit.</p>
+
+			</article>
+
+		</section>
+
+		<section class="keynotes-seperate clearfix"></section>
+		
+		<section class="center min-max keynotes clearfix">
+			
+			<aside>
+				<img src="_/img/idealab/gorga.jpg" alt="Gilbert">
+			</aside>
+			<article>
+				<h5>Nick Gorga, Hatch Detroit:</h5>
+
+				<p>Considered the shorter and blonder of the Hatch duo, Nick Gorga moved back home to Detroit after 7 years in Chicago to do his part to revitalize the city and the region he loves. His day job is as a lawyer at Honigman Miller, where he also serves as the hiring partner (trying to attract and retain talent in Michigan) and co-chair of the pro bono committee (trying to make sure all the firm’s lawyers give back to those most in need).</p>
+
+			</article>
+
+		</section>
+
+		<section class="keynotes-seperate clearfix"></section>
+		
+		<section class="center min-max keynotes clearfix">
+			
+			<aside>
+				<img src="_/img/idealab/jaitly.jpg" alt="Gilbert">
+			</aside>
+			<article>
+				<h5>Rishi Jaitly, Kiva Detroit and Knight Foundation:</h5>
+
+				<p>Rishi S. Jaitly joined Knight Foundation in 2011 where he directs Knight’s grant making in Detroit. Previously, Jaitly co-founded and led Michigan Corps, a social network of Michiganders committed to change in their home state. He continues to be volunteer chairman of Michigan Corps’ board and is co-founder of Kiva Detroit.</p>
+				<p>Prior to founding Michigan Corps, Jaitly worked as director of strategic partnerships and public policy at College Summit Inc., America’s leading non-profit organization increasing the college enrollment rate of lower-income high schools. He also was head of government affairs and public-private partnerships for Google in South Asia; he began his tenure with the company in Silicon Valley where he supported communications for Google’s CEO and led Google.org’s product partnerships with the United Nations.</p>
+
+			</article>
+
+		</section>
+
+		<section class="keynotes-seperate clearfix"></section>
+		
+		<section class="center min-max keynotes clearfix">
+			
+			<aside>
+				<img src="_/img/idealab/james.jpg" alt="Gilbert">
+			</aside>
+			<article>
+				<h5>Lorron James, James Group International:</h5>
+
+				<p>Lorron James is a graduate of Arizona State University (’05). He worked with the Arizona Diamondbacks baseball team as the Community Affairs Coordinator, before deciding to move back to Detroit to learn the family business, James Group International (JGI). 
+				Today, Lorron serves as Vice President of James Group International. He continues to make strides into the defense and energy sectors, while retaining and growing his relationships with Ford, General Motors and other OEM’s.</p>
+				<p>Lorron’s community involvement includes being a graduate of the Leadership Detroit XXXI class through the Detroit Regional Chamber and mentoring a junior high student from the Pontiac based Grace Centers of Hope Program. Lorron currently serves as the President of the Intermediate Council at the Detroit Athletic Club. He also sits on the general Membership Development council board.</p>
+
+			</article>
+
+		</section>
+
+		<section class="keynotes-seperate clearfix"></section>
+		
+		<section class="center min-max keynotes clearfix">
+			
+			<aside>
+				<img src="_/img/idealab/mcmanus.jpg" alt="Gilbert">
+			</aside>
+			<article>
+				<h5>Josh McManus, D:hive:</h5>
+
+				<p>D:hive, a new program to attract and retain creative and entrepreneurial talent in Detroit is headed up by Josh McManus. Having recently spearheaded similar efforts in Tennessee, Josh recently moved from Chattanooga to Brush Park to push forward the D:hive initiative, which is being funded by a grant from the Hudson-Webber Foundation. It is also receiving help from the Detroit Downtown Partnership, Detroit Economic Growth Corp and Quicken Loans. Josh and the D:Hive team have helped numerous Detroit newcomers to date stake a claim in the Motor City.</p>
+
+			</article>
+
+		</section>
+
+		<section class="keynotes-seperate clearfix"></section>
+		
+		<section class="center min-max keynotes clearfix">
+			
+			<aside>
+				<img src="_/img/idealab/scott.jpg" alt="Gilbert">
+			</aside>
+			<article>
+				<h5>Veronika Scott, The Empowerment Plan:</h5>
+
+				<p>Less than two years ago, Veronika Scott walked passed an abandoned playground in Detroit and saw a group of homeless people using their own clothing as makeshift housing. Shortly following this, Veronika embarked on a quest to help over 32,000 homeless Detroiters by providing them with something basic, but much needed: a winter coat.</p>
+				<p>Today, she's running her non-profit company, the Empowerment Plan, in Detroit’s Corktown that produces innovative self-heating coats that transform into waterproof sleeping bags. And she's handing them out to the same people that helped her generate the idea. As Scott points out, "for those who have no home, their coat is also their shelter," so rather than just clothe those in need, she's developed this hybrid shelter and garment—the coat turns into a sleeping bag, using body heat captured during the day to provide extra warmth at night.</p>
+
+			</article>
+
+		</section>
+
+		<section class="keynotes-seperate clearfix"></section>
+		
+		<section class="center min-max keynotes clearfix">
+			
+			<aside>
+				<img src="_/img/idealab/simmons.jpg" alt="Gilbert">
+			</aside>
+			<article>
+				<h5>Delphia Simmons, Thrive Detroit:</h5>
+
+				<p>Thrive Detroit was born out of the vision of Delphia Simmons. As a Project Manager for Coalition On Temporary Shelter (COTS), Simmons was very familiar with the struggles of so many Detroiters who simply needed an opportunity to help them regain self-sufficiency and stability. Upon traveling, Simmons noticed that many other major cities offered "street newspapers" as an entrepreneurial tool for the unhoused and vulnerably housed population.  As Detroit has had its share of bumps and bruises most recently, Simmons thought this the perfect opportunity to create a similar platform back home.</p>
+				<p>THRIVE DETROIT is a new, monthly street paper, with the mission of empowering individuals struggling with extreme poverty to participate on a new level in the community through self-employment, job training, and collaboration. The paper itself covers social justice issues, primarily poverty-related, and local content; it also seeks to be a voice for vendors and the unhoused. This newspaper is produced as a vehicle toward self-sufficiency and success for those experiencing or at risk of experiencing homelessness.</p>
+
+			</article>
+
+		</section>
+
+		<section class="keynotes-seperate clearfix"></section>
+		
+		<section class="center min-max keynotes clearfix">
+			
+			<aside>
+				<img src="_/img/idealab/smith.jpg" alt="Gilbert">
+			</aside>
+			<article>
+				<h5>Bobby Smith, En Garde! Detroit:</h5>
+
+				<p>En Garde! Detroit is a social enterprise which utilizes the transformative effects of Fencing to better the community. Its core belief is that Fencing is an effective youth development tool for at-risk youth based on documented and personal experiences.</p>
+				<p>En Garde! Detroit was founded by Bobby C. Smith a Jamaican immigrant and now Detroit local. As a child, Bobby was accepted into the Peter Westbrook Foundation (PWF) in New York City. The PWF was established to fund at-risk youth who wish to learn Fencing and compete across the world. Bobby used his talents and earned an athletic scholarship which made college a reality. With little financially support, ten sets of fencing equipment and a vision; Bobby began his dream of creating S.H.A.R.P. kids. Mr. Smith serves as a testament to the disadvantaged youth that success can be obtained by anyone willing to take the necessary steps.</p>
+				<p>While fencing is important to Bobby, he is unique because of his multifaceted skill base which he uses to develop positive collaborations around the city. While serving on boards and consulting in the areas of marketing, advertising, &amp; event planning, Bobby has established relationships vital to the growth of En Garde! Detroit and our communities. Currently, he serves as the Director of Youth Affairs for the District 6 of Michigan, appointed by State Representative Fred Durhal, Jr.</p>
+
+			</article>
+
+		</section>
+
+		<section class="keynotes-seperate clearfix"></section>
+		
+		<section class="center min-max keynotes clearfix">
+			
+			<aside>
+				<img src="_/img/idealab/vier.jpg" alt="Gilbert">
+			</aside>
+			<article>
+				<h5>Suzanne Vier, Simply Suzanne and Tashmoo Biergarten:</h5>
+
+				<p>Suzanne was born and raised in Michigan, and like many Midwesterners, she grew up on wholesome and home-cooked meals which were oftentimes prepared with ingredients fresh from her mom's garden.</p>
+				<p>Suzanne moved to New York City to pursue a career in marketing and human resources. She enjoyed all NYC had to offer and also traveled extensively, always taking the time to sample fresh, local foods during her adventures. Suzanne was mostly self-taught during her "culinary journeys", by watching and learning from others. During a business trip to Michigan, Suzanne and a good friend experimented with homemade granola recipes. Suzanne was instantly convinced that it was too good to keep to themselves, and it was then that the idea to start a granola company was born – Simply Suzanne LLC, a Detoit-based, and now growing granola company.</p>
+				<p>This past fall, in partnership with Aaron Weigner, Suzanne also launched the pop-up Tashmoo Biergarten. Receiving overflowing support to date, the Tashmoo Biergarten provides an outdoor venue for fall fun, sells Michigan beer and raises some funds to support economic development in Detroit.</p>
+
+			</article>
+
+		</section>
+
+		<section class="keynotes-seperate clearfix"></section>
+		
+		<section class="center min-max keynotes clearfix">
+			
+			<aside>
+				<img src="_/img/idealab/cooley.jpg" alt="Gilbert">
+			</aside>
+			<article>
+				<h5>Phillip Cooley, Slows Bar BQ and O’Connor Development Group LLC</h5>
+
+				<p>Phillip Cooley, a co-owner of Slows Bar-B-Q in downtown Detroit and a real estate and development firm, O'Connor (he founded both with his brother), is using the good will to become an agent of urban revitalization. As the owner of his own small businesses, Cooley himself only works 10-15 hours a week, which allows him more than enough time to volunteer, as well as his current big project, transforming Detroit's Roosevelt Park.</p>
+				<p>Cooley, a former model who worked in places like Barcelona, Paris, Tokyo, and New York City, before moving back to Michigan to open his businesses, also sits on seven advisory boards, including the ACLU of Southeastern Michigan, The Architectural Salvage Warehouse of Detroit, and The Center for Community Based Enterprise.</p>
+
+			</article>
+
+		</section>
+
+		<section class="keynotes-seperate clearfix"></section>
 		
 	</div>
 	
