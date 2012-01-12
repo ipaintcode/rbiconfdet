@@ -48,7 +48,7 @@
 						</ul>
 						</li>
 						<li class=""><a href="" tooltip="Coming Soon">Detroit Impact</a></li>
-						<li class=""><a href="http://www.eventbrite.com/event/2630495884?utm_source=eb_email&utm_medium=email&utm_campaign=new_eventv2&utm_term=eventurl_text">Register</a></li>
+						<li class=""><a href="http://www.eventbrite.com/event/1290514965" target="_blank">Register</a></li>
 					</ol>
 		
 				</nav>
@@ -108,7 +108,7 @@
 		<section class="center min-max keynotes clearfix">
 			
 			<aside>
-				<img src="_/img/keynotes/gilbert.jpg" alt="Gilbert">
+				<img src="_/img/keynotes/paul.jpg" alt="Gilbert">
 			</aside>
 			<article>
 				<h5>Robert C. Paul, Chief Executive Officer, Compuware Corporation</h5>
@@ -144,7 +144,7 @@
 		<section class="center min-max keynotes clearfix">
 			
 			<aside>
-				<img src="_/img/keynotes/gilbert.jpg" alt="Gilbert">
+				<img src="_/img/keynotes/goldman.jpg" alt="Gilbert">
 			</aside>
 			<article>
 				<h5>Tony Goldman, Chief Executive Officer, Goldman Properties</h5>
@@ -162,7 +162,7 @@
 		<section class="center min-max keynotes clearfix">
 			
 			<aside>
-				<img src="_/img/keynotes/gilbert.jpg" alt="Gilbert">
+				<img src="_/img/keynotes/brown.jpg" alt="Gilbert">
 			</aside>
 			<article>
 				<h5>Annis N. Brown, Executive Director, Teach for America-Detroit</h5>
