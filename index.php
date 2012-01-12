@@ -41,7 +41,7 @@
 						<li class="active"><a href="">Initiative</a></li>
 						<li class=""><a href="agenda.php">Conference</a></li>
 						<li class=""><a href="" tooltip="Coming Soon">Detroit Impact</a></li>
-						<li class=""><a href="http://www.eventbrite.com/event/2630495884?utm_source=eb_email&utm_medium=email&utm_campaign=new_eventv2&utm_term=eventurl_text">Register</a></li>
+						<li class=""><a href="http://www.eventbrite.com/event/1290514965">Register</a></li>
 					</ol>
 		
 				</nav>
