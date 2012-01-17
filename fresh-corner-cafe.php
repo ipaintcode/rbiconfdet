@@ -132,7 +132,7 @@
 			</div>
 		</div>
 		
-		<p class="center min-max">University of Michigan Revitalization &amp; Business Club<a href="">For Public Relations or Just to Talk &rarr;</a></p>
+		<p class="center min-max">University of Michigan Revitalization &amp; Business Club<a href="mailto:RandBpress@umich.edu">For Public Relations or Just to Talk &rarr;</a></p>
 		
 	</footer>
 
