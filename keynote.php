@@ -47,7 +47,7 @@
 							<li class="active"><a href="keynote.php">Keynote Speakers</a></li>
 						</ul>
 						</li>
-						<li class=""><a href="" tooltip="Coming Soon">Detroit Impact</a></li>
+						<li class=""><a href="racquetup.php">Detroit Impact</a></li>
 						<li class=""><a href="http://www.eventbrite.com/event/1290514965" target="_blank">Register</a></li>
 					</ol>
 		
@@ -98,7 +98,7 @@
 				<h5>Dan Gilbert, Founder and Chairman, Quicken Loans</h5>
 				<p>As Founder and Chairman of Detroit-based Quicken Loans and its family of more than 40 companies, Dan Gilbert will discuss his commitment to making downtown Detroit a vibrant urban core where young professionals live, work, and play. Dan is also majority owner of the NBA’s Cleveland Cavaliers.</p>
 				<p>Quicken Loans Inc. is the nation’s largest online lender and a top-five retail home lender in the United States. Quicken Loans closed a company-record $29 billion of home loan volume in 2010. The company, which employs more than 5,000 people nationally, was named highest in customer satisfaction among all home loan lenders in the United States in a benchmark study by J.D. Power and Associates for 2010 and 2011. Quicken Loans is also regularly recognized among the best places to work by Fortune, the Detroit Free Press, and Computerworld Magazine.</p>
-				<p>The company moved 1,700 team members into Detroit’s Compuware building in 2010, followed by 2,000 more creative thinkers who moved into the Chase Building in fall 2011. By early 2012, more than 4,000 Quicken Loans team members will work in downtown Detroit.</p>
+				<p>The company moved 1,700 team members into Detroit’s Compuware building in 2010, followed by 2,000 more creative thinkers who moved into the Chase Building in fall 2011. By early 2012, more than 4,000 Quicken Loans team members will work in downtown Detroit. Dan also serves as Vice Chairman of the non-profit, M-1 RAIL initiative, formed to lead the vision and implementation of light-rail transportation in downtown Detroit.</p>
 			</article>
 			
 		</section>
@@ -190,24 +190,13 @@
 		<div class="footer-wrapper-thankyou clearfix">
 			<div class="center min-max">
 				<h5>Thank you for your support</h5>
-				<ul class="">
-					<li class="gm" tooltip="Platinum">GM</li>
-					<li class="det" tooltip="Premium">DTE Energy</li>
-					<li class="focus" tooltip="Platinum">Focus: HOPE</li>
-					<li class="del" tooltip="Supporting">Deloitte.</li>
-					<li class="neism" tooltip="Platinum">Net Impact Michigan</li>
-				</ul>
-				<ul class="second-logos">
-					<li class="pwc" tooltip="Supporting">Price Waterhouse Coppers</li>
-					<li class="netimpact" tooltip="Supporting">New Economy Initiative for Southest Michigan</li>
-					<li class="meritor" tooltip="Gold">Meritor</li>
-					<li class="ql" tooltip="Supporting">Quicken Loans</li>
-					<li class="sga" tooltip="Premium">SGA</li>
+				<ul>
+					<li class="temp-footer"></li>
 				</ul>
 			</div>
 		</div>
 		
-		<p class="center min-max">University of Michigan Revitalization &amp; Business Club<a href="">Reach out to us &rarr;</a></p>
+		<p class="center min-max">University of Michigan Revitalization &amp; Business Club<a href="">For Public Relations or Just to Talk &rarr;</a></p>
 		
 	</footer>
 

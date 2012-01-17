@@ -33,14 +33,25 @@
 		<header>
 			<div class="header-inner center min-max clearfix">
 
-				<h1><a href="index.php">Revitalization &amp; Business Initiative</a></h1>
+				<h1><a href="index.php">Revitalization &amp; Business Initiative | IdeaLab</a></h1>
 		
 				<nav class="main-nav">
-			
+
 					<ol>
-						<li class="active"><a href="">Initiative</a></li>
+						<li class=""><a href="index.php">Initiative</a></li>
 						<li class=""><a href="agenda.php">Conference</a></li>
-						<li class=""><a href="racquetup.php">Detroit Impact</a></li>
+						<li class="active"><a href="racquetup.php">Detroit Impact</a>
+							<ul class="main-nav-secondary">
+								<li class=""><a href="racquetup.php">Racquet Up</a></li>
+								<li class=""><a href="detroit-creative-corridor-center.php">Detroit Creative Corridor Center</a></li>
+								<li class=""><a href="fresh-corner-cafe.php">Fresh Corner Caf&eacute;</a></li>
+								<li class=""><a href="kiva-detroit.php">Kiva Detroit</a></li>
+								<li class=""><a href="hostel-detroit.php">Hostel Detroit</a></li>
+								<li class=""><a href="whole-foods-market.php">Whole Foods Market</a></li>
+								<li class=""><a href="challenge-detroit.php">Challenge Detroit</a></li>
+								<li class="active"><a href="detroit-institute-of-arts.php">Detroit Institute of Arts</a></li>
+							</ul>	
+						</li>
 						<li class=""><a href="http://www.eventbrite.com/event/1290514965" target="_blank">Register</a></li>
 					</ol>
 		
@@ -70,19 +81,6 @@
 
 			</div>
 			
-			<div class="message clearfix">
-				<h2>We’re changing<span>the conversation</span></h2>
-				<p>Educating and engaging students in business issues shaping Detroit</p>
-			</div>
-			<!-- <div class="billboard-gallery">
-				<ul class="billboard-gallery-inner">
-					<li><img src="_/img/1.jpg" alt="2"></li>
-					<li><img src="_/img/2.jpg" alt="2"></li>
-					<li><img src="_/img/2.jpg" alt="2"></li>
-				</ul>
-			</div> -->
-			
-			
 			<div class="billboard"></div>
 		
 		</header>
@@ -90,27 +88,29 @@
 	
 	<div class="content-wrapper clearfix">
 		
-		<section class="center min-max">
+		<section class="center min-max agenda">
 			
-			<ul class="col-three">
-				<li class="pillar">
-					<h3 class="ross">Michigan Ross School of Business</h3>
-					<h4>Who we are</h4>
-					<p>Launched by Ross School of Business MBAs in 2010, R&amp;B connects University of Michigan students with Detroit&rsquo;s evolving business landscape. R&amp;B promotes Detroit&rsquo;s assets and encourages students to explore opportunities in the Motor City.</p>
-				</li>
-				<li class="pillar">
-					<h3 class="oldenglish">Detroit</h3>
-					<h4>What we do</h4>
-					<p>R&amp;B hosts an annual capstone conference examining key business initiatives in Detroit. We also organize excursions and plan events to highlight the city&rsquo;s career opportunities, rich culture, and quality of life.</p>
-				</li>
-				<li>
-					<h3 class="cityscape">City</h3>
-					<h4>Where we are going</h4>
-					<p>We strive for impact by contributing to Detroit organizations through student-run consulting projects and motivating UM students to choose Detroit as a career and lifestyle destination. R&amp;B engages students with the important issues shaping the city&rsquo;s future.</p>
-				</li>
-			</ul>
-			
+			<h5>Detroit Impact <p>Detroit Impact enlists student teams in strategic consulting engagements to address specific challenges and opportunities facing Detroit businesses and organizations. Over four months, interdisciplinary teams hold brainstorming sessions, conduct in-depth research, and apply design thinking principles to provide clients with innovative ideas and solutions that they can implement in the Detroit community.</p><span>Detroit Institute of Arts</span></h5>
+		
 		</section>
+		
+		<section class="center min-max keynotes clearfix">
+			
+			<aside>
+				<img src="_/img/suitcase.png">
+			</aside>
+			<article>
+				<h5>Summary:</h5>
+				
+				<p>The Detroit Institute of Art is one of the nation’s premiere art museums. Its collection is among the top six in the United States, comprising a multicultural and multinational survey of human creativity from prehistory through the 21st century.</p>
+				
+				<p>The team analyzed the connections between city revitalization and the cultural sector, current revitalization efforts in Detroit, and the strengths and capabilities of the DIA to participate in such efforts.  The Detroit Impact team will recommend strategies for the museum to support urban revitalization and economic development efforts in Detroit. The mission of the DIA is to create experiences that help each visitor find personal meaning in art.</p>
+
+			</article>
+
+		</section>
+		
+		<section class="keynotes-seperate clearfix"></section>
 		
 	</div>
 	

@@ -290,24 +290,13 @@
 		<div class="footer-wrapper-thankyou clearfix">
 			<div class="center min-max">
 				<h5>Thank you for your support</h5>
-				<ul class="">
-					<li class="gm" tooltip="Platinum">GM</li>
-					<li class="det" tooltip="Premium">DTE Energy</li>
-					<li class="focus" tooltip="Platinum">Focus: HOPE</li>
-					<li class="del" tooltip="Supporting">Deloitte.</li>
-					<li class="neism" tooltip="Platinum">Net Impact Michigan</li>
-				</ul>
-				<ul class="second-logos">
-					<li class="pwc" tooltip="Supporting">Price Waterhouse Coppers</li>
-					<li class="netimpact" tooltip="Supporting">New Economy Initiative for Southest Michigan</li>
-					<li class="meritor" tooltip="Gold">Meritor</li>
-					<li class="ql" tooltip="Supporting">Quicken Loans</li>
-					<li class="sga" tooltip="Premium">SGA</li>
+				<ul>
+					<li class="temp-footer"></li>
 				</ul>
 			</div>
 		</div>
 		
-		<p class="center min-max">University of Michigan Revitalization &amp; Business Club<a href="">Reach out to us &rarr;</a></p>
+		<p class="center min-max">University of Michigan Revitalization &amp; Business Club<a href="">For Public Relations or Just to Talk &rarr;</a></p>
 		
 	</footer>
 

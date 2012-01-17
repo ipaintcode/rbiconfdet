@@ -15,7 +15,7 @@
 											<li class=""><a href="">Keynote Speakers</a></li>
 										</ul> -->
 				</li>
-				<li class=""><a href="" tooltip="Coming Soon">Detroit Impact</a></li>
+				<li class=""><a href="racquetup.php">Detroit Impact</a></li>
 				<li class=""><a href="http://www.eventbrite.com/event/2630495884">Register</a></li>
 			</ol>
 

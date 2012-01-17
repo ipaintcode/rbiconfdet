@@ -48,7 +48,7 @@
 							<li class=""><a href="keynote.php">Keynote Speakers</a></li>
 						</ul>
 						</li>
-						<li class=""><a href="" tooltip="Coming Soon">Detroit Impact</a></li>
+						<li class=""><a href="racquetup.php">Detroit Impact</a></li>
 						<li class=""><a href="http://www.eventbrite.com/event/1290514965" target="_blank">Register</a></li>
 					</ol>
 
@@ -101,7 +101,7 @@
 			<h5>Conference <span>Agenda</span></h5>
 			<div class="info-graphic">
 				<p class="agenda-date">19<span>jan 2012</span></p>
-				<p class="agenda-custom">Taubman Center, College for Creative Studies Detroit, MI<span>(Contact <a href="mailto:randbregistration@umich.edu">randbregistration@umich.edu</a> for tickets)</span></p>
+				<p class="agenda-custom">Taubman Center, College for Creative Studies Detroit, MI<span>(Contact <a href="For Public Relations or Just to Talk:randbregistration@umich.edu">randbregistration@umich.edu</a> for tickets)</span></p>
 				<a class="download-cal" href="">(Download)</a>
 			</div>
 			
@@ -407,24 +407,13 @@
 		<div class="footer-wrapper-thankyou clearfix">
 			<div class="center min-max">
 				<h5>Thank you for your support</h5>
-				<ul class="">
-					<li class="gm" tooltip="Platinum">GM</li>
-					<li class="det" tooltip="Premium">DTE Energy</li>
-					<li class="focus" tooltip="Platinum">Focus: HOPE</li>
-					<li class="del" tooltip="Supporting">Deloitte.</li>
-					<li class="neism" tooltip="Platinum">Net Impact Michigan</li>
-				</ul>
-				<ul class="second-logos">
-					<li class="pwc" tooltip="Supporting">Price Waterhouse Coppers</li>
-					<li class="netimpact" tooltip="Silver">New Economy Initiative for Southest Michigan</li>
-					<li class="meritor" tooltip="Gold">Meritor</li>
-					<li class="ql" tooltip="Supporting">Quicken Loans</li>
-					<li class="sga" tooltip="Premium">SGA</li>
+				<ul>
+					<li class="temp-footer"></li>
 				</ul>
 			</div>
 		</div>
 
-		<p class="center min-max">University of Michigan Revitalization &amp; Business Club<a href="">Reach out to us &rarr;</a></p>
+		<p class="center min-max">University of Michigan Revitalization &amp; Business Club<a href="">For Public Relations or Just to Talk &rarr;</a></p>
 
 	</footer>
 	
