@@ -96,13 +96,13 @@
 			<article>
 				<h5>Art and Soul of Detroit - Investing in the Creative Economy</h5>
 				
-				<h6>Bethany Betlzer</h6>
+				<h6>Bethany Betzler</h6>
 				<p>Bethany Betzler is Associate Director of the Detroit Creative Corridor Center (DC3), an economic development organization devoted to accelerating creative innovation in Detroit. Bethany is currently leading a cohort of 17 businesses through the DC3′s Creative Ventures Program, which is focused on delivering targeted industry knowledge, mentoring, advisory support and business development in a collaborative and design-centric setting. Bethany is also a Co-founder of the UK-based Idea Engineering Agency, which develops new tools for problem-solving, community building, and innovation in projects across the globe. Bethany has an MA from University of the Arts London and studied entrepreneurship at London Business School, as well as a BA degree in Choreography from Columbia College in Chicago. Her own creative practice has been based in choreography and dance-making, where she fell in love with dance films, site-specific performances, and producing multi-media events with companies in Chicago, L.A., and Detroit. Bethany is on the advisory boards of Kiva Detroit and 71 Pop and Declare Detroit's steering committee.</p>
 					
 				<h6>Dante Marshall, 25, President, CEO of The Art Direction</h6>
 				<p>The Art Direction is a full service creative agency. We conceptualize, produce, and develop projects across several mediums including visual design, photography, digital programming, and cinematography. As a young company, we are eager to acquire accounts and find ourselves untainted by routinized or conventional approaches. Instead of thinking outside the box, at The Art Direction - we take the box, and make origami. We also place a premium on reliability and excellent client service. As individuals we each specialize in separate mediums yet, together we have been able to produce engaging content for national brands such as Grey Goose, McDonald’s, Def Jam and Ambassador Magazine. While some creative agencies rest on ambiguous verbiage and over the top proposals to wow the client, we simply deliver.</p>
 				
-				<h6>C&Eacute;ZANNE J. CHARLES</h6>
+				<h6>C&eacute;zanne J. Charles</h6>
 				<p>C&eacute;zanne J. Charles is Director of Creative Industries at ArtServe Michigan, directing the policies and programs that support individual creative practitioners. Its programs reach statewide to provide the knowledge, networks and advocacy needed to help empower the practices of artists, designers, and designer-makers within the state. Aimed at demonstrating the innovative capacities of individual artists and creative practitioners, programs include the Kresge Artist Fellows Professional Practice Opportunities program, the Creative Many Seminars for Artists, Community Supported Art Detroit, and the upcoming Design Futures summit. Charles is an artist and curator and co-founded the hybrid art &amp; design studio rootoftwo in 1998 (with John Marshall). Charles joined ArtServe Michigan in 2008.</p>
 				
 				<h6>Jennifer Guerra</h6>
