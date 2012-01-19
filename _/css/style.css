@@ -791,6 +791,22 @@ footer p a:hover {
 	font-family: Georgia, "Times New Roman", Times, serif;
 }
 
+.agenda-alt .info-graphic .agenda-custom a.address {
+	color: #495368;
+	margin-top: 1px;
+	text-decoration: underline;
+	text-transform: none;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: bold;
+	display: block;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.agenda-alt .info-graphic .agenda-custom a.address:hover {
+	color: #495368;
+}
+
 .agenda-alt .info-graphic .agenda-custom a {
 	text-decoration: none;
 	color: #B63C44;
@@ -963,6 +979,14 @@ article h4 span a {
 	font-size: 14px;
 	font-weight: normal;
 	margin-top:  15px;
+}
+
+.keynotes p a {
+	color: #B53C44;
+}
+
+.keynotes p a:hover {
+	color: #7A191E;
 }
 
 

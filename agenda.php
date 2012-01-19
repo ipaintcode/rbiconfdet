@@ -101,7 +101,7 @@
 			<h5>Conference <span>Agenda</span></h5>
 			<div class="info-graphic">
 				<p class="agenda-date">19<span>jan 2012</span></p>
-				<p class="agenda-custom">Taubman Center, College for Creative Studies Detroit, MI<span>(Contact <a href="For Public Relations or Just to Talk:randbregistration@umich.edu">randbregistration@umich.edu</a> for tickets)</span></p>
+				<p class="agenda-custom">Taubman Center, College for Creative Studies Detroit, MI<a href="http://g.co/maps/abps8" class="address" target="_blank">(460 W Baltimore in Midtown Detroit)</a><span>(Contact <a href="For Public Relations or Just to Talk:randbregistration@umich.edu">randbregistration@umich.edu</a> for tickets)</span></p>
 				<a class="download-cal" href="">(Download)</a>
 			</div>
 			
