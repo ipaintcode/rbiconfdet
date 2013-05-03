@@ -17,6 +17,12 @@
 				<li class="netimpact" tooltip="Gold Member">Net Impact Michigan</li>
 				<li class="del" tooltip="Gold Member">Deloitte.</li>
 				<li class="nelsm" tooltip="Silver Member">New Economy Initiative for Southest Michigan</li>
+                <li>
+                    <ul>
+                        <li></li>
+                    </ul>
+                </li>
+
 			</ul>
 		</div>
 	</div>
